@@ -13,10 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-12-01T22:52:01.002+01:00
-  initializedAtString: 2019-12-01T22:52:00.991+01:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2019-12-03T19:27:46.701+01:00
+  initializedAtString: 2019-12-03T19:27:46.671+01:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/BrianSilvera1803/v-lo.git
@@ -26,12 +32,33 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/BrianSilvera1803/v-lo.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - master
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/BrianSilvera1803/v-lo.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/BrianSilvera1803/v-lo.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
