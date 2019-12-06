@@ -24,8 +24,6 @@ public class validerBouton : MonoBehaviour
     // Détecter si un clic se produit
     public void OnClick()
     {
-        // Sortie pour consoler le nom du GameObject cliqué et le message suivant. Vous pouvez remplacer ceci par vos propres actions lorsque vous cliquez sur le GameObject .
-        Debug.Log("objet de jeu cliqué avec le bouton droit de la souris!");
         probaAccident.initInfo(sexe, age, fp, corp, mc, gravite_mc, medoc, gravite_medoc, nb_course_init, distance_init);
         fiche.SetActive(false);
         player.AddComponent<mouvementMoto>();
