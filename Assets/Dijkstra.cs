@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Dijkstra : MonoBehaviour
 {
@@ -29,6 +30,8 @@ public class Dijkstra : MonoBehaviour
     public GameObject point;
     private List<GameObject> goal_list = new List<GameObject>();
     public GameObject goal;
+
+    public Text display;
 
     public void Init(GameObject sdeb)
     {
@@ -147,10 +150,34 @@ public class Dijkstra : MonoBehaviour
         Dijkstra_run(gameObject);
     }
 
+    public List<GameObject> nextGoal(float distanceMax)
+    {
+        List<GameObject> res = new List<GameObject>();
+        foreach(GameObject goal in goal_list)
+        {
+            if (distance[goal] < distanceMax)
+                res.Add(goal);
+        }
+        return res;
+    }
+
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
+            probaAccident.nb_course = probaAccident.nb_course + 1.0f;
+
+            foreach (Transform child in goal.transform)
+            {
+                if(child.gameObject.activeSelf)
+                    probaAccident.distance = probaAccident.distance + distance[child.gameObject];
+            }
+
+            /**
+             * probaAccident.nb_regard = probaAccident.nb_regard + A definir;
+             * probaAccident.bpm = probaAccident.bpm + A definir;
+             */
+            
             foreach (GameObject child in noeud_list)
             {
                 child.SetActive(false);
@@ -160,13 +187,36 @@ public class Dijkstra : MonoBehaviour
             {
                 child.gameObject.SetActive(false);
             }
+
             goal_list.Remove(gameObject);
 
-            probaAccident.nb_course = probaAccident.nb_course + 1;
-            //probaAccident.distance = probaAccident.distance + distance[goal] ;
-            
-            int ind = Random.Range(0, goal_list.Count);
-            List<GameObject> l = PCC(gameObject, goal_list[ind]);
+            float prob = probaAccident.calculProba();
+
+            display.text = prob.ToString(); 
+
+            List<GameObject> next = new List<GameObject>();
+
+            if (prob <= 0.4f) // Inventé pour les tests
+            {
+                next = nextGoal(110.0f);
+            }
+            else if(prob >= 0.4f && prob <= 0.6f)
+            {
+                next = nextGoal(60.0f);
+            }
+            else if (prob >= 0.6f && prob <= 0.8f)
+            {
+                next = nextGoal(40.0f);
+            }
+            else
+            {
+                next = nextGoal(20.0f);
+            }
+
+            int ind = Random.Range(0, next.Count);
+
+            List<GameObject> l = PCC(gameObject, next[ind]);
+
             l.Reverse();
 
             foreach (GameObject e in l)

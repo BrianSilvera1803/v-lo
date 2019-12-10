@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-10T15:34:16.400+01:00
-  initializedAtString: 2019-12-10T15:07:26.924+01:00
+  lastUpdatedAtString: 2019-12-10T23:16:23.420+01:00
+  initializedAtString: 2019-12-10T20:21:07.768+01:00
   entries:
   - path: .vs\v-lo\v16\.suo
     fullPath: D:\EVHI\v-lo\.vs\v-lo\v16\.suo
@@ -28,51 +28,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: .vs\v-lo\v16\Server\sqlite3\storage.ide-shm
-    fullPath: D:\EVHI\v-lo\.vs\v-lo\v16\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\v-lo\v16\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: .vs\v-lo\v16\Server\sqlite3\storage.ide-wal
-    fullPath: D:\EVHI\v-lo\.vs\v-lo\v16\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\v-lo\v16\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assembly-CSharp.csproj
     fullPath: D:\EVHI\v-lo\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: D:\EVHI\v-lo\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: D:\EVHI\v-lo\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Dijkstra.cs
     fullPath: D:\EVHI\v-lo\Assets\Dijkstra.cs
     projectPath: Assets\Dijkstra.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Dijkstra.cs.meta
-    fullPath: D:\EVHI\v-lo\Assets\Dijkstra.cs.meta
-    projectPath: Assets\Dijkstra.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\mouvementMoto.cs
-    fullPath: D:\EVHI\v-lo\Assets\mouvementMoto.cs
-    projectPath: Assets\mouvementMoto.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,33 +46,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\SampleScene.unity
-    fullPath: D:\EVHI\v-lo\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
+  - path: Assets\test.cs
+    fullPath: D:\EVHI\v-lo\Assets\test.cs
+    projectPath: Assets\test.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\test.cs.meta
+    fullPath: D:\EVHI\v-lo\Assets\test.cs.meta
+    projectPath: Assets\test.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\validerBouton.cs
     fullPath: D:\EVHI\v-lo\Assets\validerBouton.cs
     projectPath: Assets\validerBouton.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: D:\EVHI\v-lo\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\assetDatabase3
     fullPath: D:\EVHI\v-lo\Library\assetDatabase3
     projectPath: Library\assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: D:\EVHI\v-lo\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -160,63 +118,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\EVHI\v-lo\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\metadata\06\0612c2a6ae163434f8ac42d1d2be7b27
     fullPath: D:\EVHI\v-lo\Library\metadata\06\0612c2a6ae163434f8ac42d1d2be7b27
     projectPath: Library\metadata\06\0612c2a6ae163434f8ac42d1d2be7b27
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\28\28110f66e6fc936439862215100b11ee
-    fullPath: D:\EVHI\v-lo\Library\metadata\28\28110f66e6fc936439862215100b11ee
-    projectPath: Library\metadata\28\28110f66e6fc936439862215100b11ee
+  - path: Library\metadata\35\35dca851d3a6411439b156715ee31468
+    fullPath: D:\EVHI\v-lo\Library\metadata\35\35dca851d3a6411439b156715ee31468
+    projectPath: Library\metadata\35\35dca851d3a6411439b156715ee31468
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    fullPath: D:\EVHI\v-lo\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    workTreeStatus: 5
+  - path: Library\metadata\35\35dca851d3a6411439b156715ee31468.info
+    fullPath: D:\EVHI\v-lo\Library\metadata\35\35dca851d3a6411439b156715ee31468.info
+    projectPath: Library\metadata\35\35dca851d3a6411439b156715ee31468.info
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\5e\5e97b2c7174681144a3959a475827fb9.info
-    fullPath: D:\EVHI\v-lo\Library\metadata\5e\5e97b2c7174681144a3959a475827fb9.info
-    projectPath: Library\metadata\5e\5e97b2c7174681144a3959a475827fb9.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\73\732e9a12f8384c14d810aa14a1b64121.info
-    fullPath: D:\EVHI\v-lo\Library\metadata\73\732e9a12f8384c14d810aa14a1b64121.info
-    projectPath: Library\metadata\73\732e9a12f8384c14d810aa14a1b64121.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\metadata\8f\8f1b5e1b716cc0f4392ec2a53eef3db9
     fullPath: D:\EVHI\v-lo\Library\metadata\8f\8f1b5e1b716cc0f4392ec2a53eef3db9
     projectPath: Library\metadata\8f\8f1b5e1b716cc0f4392ec2a53eef3db9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\8f\8f1b5e1b716cc0f4392ec2a53eef3db9.info
-    fullPath: D:\EVHI\v-lo\Library\metadata\8f\8f1b5e1b716cc0f4392ec2a53eef3db9.info
-    projectPath: Library\metadata\8f\8f1b5e1b716cc0f4392ec2a53eef3db9.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\96\96f79fcfa45287041a67b7c7d1907081
     fullPath: D:\EVHI\v-lo\Library\metadata\96\96f79fcfa45287041a67b7c7d1907081
     projectPath: Library\metadata\96\96f79fcfa45287041a67b7c7d1907081
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d2\d279c2e2a8e939140802f63fce379a82.info
-    fullPath: D:\EVHI\v-lo\Library\metadata\d2\d279c2e2a8e939140802f63fce379a82.info
-    projectPath: Library\metadata\d2\d279c2e2a8e939140802f63fce379a82.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -238,21 +166,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -260,29 +176,17 @@ MonoBehaviour:
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\BuiltinAssemblies.stamp
     projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -298,18 +202,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TerrainTools.Editor.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.TerrainTools.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TerrainTools.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TerrainTools.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.TerrainTools.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TerrainTools.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
@@ -319,18 +211,6 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -346,27 +226,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -376,21 +238,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -400,66 +250,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
     fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: D:\EVHI\v-lo\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
-    fullPath: D:\EVHI\v-lo\Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
-    projectPath: Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
-    fullPath: D:\EVHI\v-lo\Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
-    projectPath: Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\EVHI\v-lo\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\EVHI\v-lo\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: D:\EVHI\v-lo\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: D:\EVHI\v-lo\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\37c2c3-mainStage.json
-    fullPath: D:\EVHI\v-lo\Library\StateCache\Hierarchy\37c2c3-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\37c2c3-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\Hierarchy\8eb1ae-mainStage.json
     fullPath: D:\EVHI\v-lo\Library\StateCache\Hierarchy\8eb1ae-mainStage.json
     projectPath: Library\StateCache\Hierarchy\8eb1ae-mainStage.json
@@ -478,39 +274,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: D:\EVHI\v-lo\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: D:\EVHI\v-lo\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: D:\EVHI\v-lo\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: D:\EVHI\v-lo\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Assembly-CSharp-Editor.dll
-    fullPath: D:\EVHI\v-lo\Temp\Assembly-CSharp-Editor.dll
-    projectPath: Temp\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Assembly-CSharp-Editor.pdb
-    fullPath: D:\EVHI\v-lo\Temp\Assembly-CSharp-Editor.pdb
-    projectPath: Temp\Assembly-CSharp-Editor.pdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -520,87 +286,1773 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0c4181d1d68a0bb46ab2e81de7753450
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0c4181d1d68a0bb46ab2e81de7753450
-    projectPath: Temp\UnityTempFile-0c4181d1d68a0bb46ab2e81de7753450
+  - path: Temp\UnityTempFile-009998f8f8d04ff4d9098ddba41d77b6
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-009998f8f8d04ff4d9098ddba41d77b6
+    projectPath: Temp\UnityTempFile-009998f8f8d04ff4d9098ddba41d77b6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-18435802a30aa5c4a9636f8531973719
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-18435802a30aa5c4a9636f8531973719
-    projectPath: Temp\UnityTempFile-18435802a30aa5c4a9636f8531973719
+  - path: Temp\UnityTempFile-00b45fa7633d51247a1e4896cd923cbe
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-00b45fa7633d51247a1e4896cd923cbe
+    projectPath: Temp\UnityTempFile-00b45fa7633d51247a1e4896cd923cbe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-30d6caed5a1303a40971289c975d0a07
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-30d6caed5a1303a40971289c975d0a07
-    projectPath: Temp\UnityTempFile-30d6caed5a1303a40971289c975d0a07
+  - path: Temp\UnityTempFile-0168eb2593e016340bc7eb7b046d6c69
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0168eb2593e016340bc7eb7b046d6c69
+    projectPath: Temp\UnityTempFile-0168eb2593e016340bc7eb7b046d6c69
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-34c63e49225be574296060907257df3b
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-34c63e49225be574296060907257df3b
-    projectPath: Temp\UnityTempFile-34c63e49225be574296060907257df3b
+  - path: Temp\UnityTempFile-018e6dbeebb0b2d43a7caf83334e693b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-018e6dbeebb0b2d43a7caf83334e693b
+    projectPath: Temp\UnityTempFile-018e6dbeebb0b2d43a7caf83334e693b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3bcaa3e19e123d543adcbd295f118ab8
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-3bcaa3e19e123d543adcbd295f118ab8
-    projectPath: Temp\UnityTempFile-3bcaa3e19e123d543adcbd295f118ab8
+  - path: Temp\UnityTempFile-01c8d6c0404354840bd6ec22ec8c089f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-01c8d6c0404354840bd6ec22ec8c089f
+    projectPath: Temp\UnityTempFile-01c8d6c0404354840bd6ec22ec8c089f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-44dfbb847d4dd9949934368ec34baaf7
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-44dfbb847d4dd9949934368ec34baaf7
-    projectPath: Temp\UnityTempFile-44dfbb847d4dd9949934368ec34baaf7
+  - path: Temp\UnityTempFile-023dd798bf941ff45b51c9f533fe9151
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-023dd798bf941ff45b51c9f533fe9151
+    projectPath: Temp\UnityTempFile-023dd798bf941ff45b51c9f533fe9151
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5b3fea2f198683a4cb592105f5498a05
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5b3fea2f198683a4cb592105f5498a05
-    projectPath: Temp\UnityTempFile-5b3fea2f198683a4cb592105f5498a05
+  - path: Temp\UnityTempFile-026a06c133d71574d87f42d169fbaac9
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-026a06c133d71574d87f42d169fbaac9
+    projectPath: Temp\UnityTempFile-026a06c133d71574d87f42d169fbaac9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6c7e6fc59e1a50047a917d6fd15fe1f7
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6c7e6fc59e1a50047a917d6fd15fe1f7
-    projectPath: Temp\UnityTempFile-6c7e6fc59e1a50047a917d6fd15fe1f7
+  - path: Temp\UnityTempFile-03ae1517e1bc52c458604b5db87042d0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-03ae1517e1bc52c458604b5db87042d0
+    projectPath: Temp\UnityTempFile-03ae1517e1bc52c458604b5db87042d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-97cbca6c5f3530749a2e402ce74f4503
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-97cbca6c5f3530749a2e402ce74f4503
-    projectPath: Temp\UnityTempFile-97cbca6c5f3530749a2e402ce74f4503
+  - path: Temp\UnityTempFile-060630aed91984e4aad0799a7b7119b3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-060630aed91984e4aad0799a7b7119b3
+    projectPath: Temp\UnityTempFile-060630aed91984e4aad0799a7b7119b3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-acf73ad9f42ec364ea6be09737fa35d4
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-acf73ad9f42ec364ea6be09737fa35d4
-    projectPath: Temp\UnityTempFile-acf73ad9f42ec364ea6be09737fa35d4
+  - path: Temp\UnityTempFile-07336a833421db44a9fe388fa28a4dca
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-07336a833421db44a9fe388fa28a4dca
+    projectPath: Temp\UnityTempFile-07336a833421db44a9fe388fa28a4dca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c8b59ee8cb7d94b4e94d0c7ade01eeca
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c8b59ee8cb7d94b4e94d0c7ade01eeca
-    projectPath: Temp\UnityTempFile-c8b59ee8cb7d94b4e94d0c7ade01eeca
+  - path: Temp\UnityTempFile-07ccdeb62cfcbf54cab4fb1d4dda1415
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-07ccdeb62cfcbf54cab4fb1d4dda1415
+    projectPath: Temp\UnityTempFile-07ccdeb62cfcbf54cab4fb1d4dda1415
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-cf42f4976ec9fef418b0d233b27bdd0d
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cf42f4976ec9fef418b0d233b27bdd0d
-    projectPath: Temp\UnityTempFile-cf42f4976ec9fef418b0d233b27bdd0d
+  - path: Temp\UnityTempFile-09ac31d02ae7bc6468a79a4f2a5d7531
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-09ac31d02ae7bc6468a79a4f2a5d7531
+    projectPath: Temp\UnityTempFile-09ac31d02ae7bc6468a79a4f2a5d7531
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-eaf1dab6850c20242a2a1f4734969b8a
-    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-eaf1dab6850c20242a2a1f4734969b8a
-    projectPath: Temp\UnityTempFile-eaf1dab6850c20242a2a1f4734969b8a
+  - path: Temp\UnityTempFile-0a72f7564cba41341b77a56bad7eab76
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0a72f7564cba41341b77a56bad7eab76
+    projectPath: Temp\UnityTempFile-0a72f7564cba41341b77a56bad7eab76
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: v-lo.sln
-    fullPath: D:\EVHI\v-lo\v-lo.sln
-    projectPath: v-lo.sln
+  - path: Temp\UnityTempFile-0a78499e1865186488a43247a6f965ad
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0a78499e1865186488a43247a6f965ad
+    projectPath: Temp\UnityTempFile-0a78499e1865186488a43247a6f965ad
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0b5133e3262906f479c3b0bd6ef933ad
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0b5133e3262906f479c3b0bd6ef933ad
+    projectPath: Temp\UnityTempFile-0b5133e3262906f479c3b0bd6ef933ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0b5176c51db072749b51d3a4a19a558e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0b5176c51db072749b51d3a4a19a558e
+    projectPath: Temp\UnityTempFile-0b5176c51db072749b51d3a4a19a558e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0b8b06e780a673048b99a684bd4c1ff4
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0b8b06e780a673048b99a684bd4c1ff4
+    projectPath: Temp\UnityTempFile-0b8b06e780a673048b99a684bd4c1ff4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0c7183bde5a52de4091dc2b8f5618a50
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0c7183bde5a52de4091dc2b8f5618a50
+    projectPath: Temp\UnityTempFile-0c7183bde5a52de4091dc2b8f5618a50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0db8fb847b29f8f49b2f612ff55c6985
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0db8fb847b29f8f49b2f612ff55c6985
+    projectPath: Temp\UnityTempFile-0db8fb847b29f8f49b2f612ff55c6985
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0eb86f54eaf2cc544ac7a9ed722481d6
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0eb86f54eaf2cc544ac7a9ed722481d6
+    projectPath: Temp\UnityTempFile-0eb86f54eaf2cc544ac7a9ed722481d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0f3c40560dadd2f4199013142f5b72a7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0f3c40560dadd2f4199013142f5b72a7
+    projectPath: Temp\UnityTempFile-0f3c40560dadd2f4199013142f5b72a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0f5eb02872ddb7a4b8dc5aaba8c8cb88
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-0f5eb02872ddb7a4b8dc5aaba8c8cb88
+    projectPath: Temp\UnityTempFile-0f5eb02872ddb7a4b8dc5aaba8c8cb88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-10174b5625c092643aacaef4e91f3176
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-10174b5625c092643aacaef4e91f3176
+    projectPath: Temp\UnityTempFile-10174b5625c092643aacaef4e91f3176
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-10435797540977144b5b66d97497b891
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-10435797540977144b5b66d97497b891
+    projectPath: Temp\UnityTempFile-10435797540977144b5b66d97497b891
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-108c723715405dd4c84761c5f483c78e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-108c723715405dd4c84761c5f483c78e
+    projectPath: Temp\UnityTempFile-108c723715405dd4c84761c5f483c78e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-10b6fd013f4bcd246ab21c245a5a3705
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-10b6fd013f4bcd246ab21c245a5a3705
+    projectPath: Temp\UnityTempFile-10b6fd013f4bcd246ab21c245a5a3705
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-110c9dcbcd62c9b468856159daaaf94c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-110c9dcbcd62c9b468856159daaaf94c
+    projectPath: Temp\UnityTempFile-110c9dcbcd62c9b468856159daaaf94c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1114d7b59e3dce24a84445f514531ae4
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-1114d7b59e3dce24a84445f514531ae4
+    projectPath: Temp\UnityTempFile-1114d7b59e3dce24a84445f514531ae4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-12373850dbc184548943ffe17bb9b790
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-12373850dbc184548943ffe17bb9b790
+    projectPath: Temp\UnityTempFile-12373850dbc184548943ffe17bb9b790
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-12c4cf305640352469ee1b7a46530ca6
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-12c4cf305640352469ee1b7a46530ca6
+    projectPath: Temp\UnityTempFile-12c4cf305640352469ee1b7a46530ca6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-14d4de83aef06e9479e2428216199504
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-14d4de83aef06e9479e2428216199504
+    projectPath: Temp\UnityTempFile-14d4de83aef06e9479e2428216199504
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-14e358760921b4b42b1b699450e5b3c7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-14e358760921b4b42b1b699450e5b3c7
+    projectPath: Temp\UnityTempFile-14e358760921b4b42b1b699450e5b3c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-15558c1a4ba1d3544b2b032375724e59
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-15558c1a4ba1d3544b2b032375724e59
+    projectPath: Temp\UnityTempFile-15558c1a4ba1d3544b2b032375724e59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-15817c68899674e40a4761208430617c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-15817c68899674e40a4761208430617c
+    projectPath: Temp\UnityTempFile-15817c68899674e40a4761208430617c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1614aacbca86fdc4b864c411c15de48a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-1614aacbca86fdc4b864c411c15de48a
+    projectPath: Temp\UnityTempFile-1614aacbca86fdc4b864c411c15de48a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-18623eb87a684b7459e8afb492c2f8ac
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-18623eb87a684b7459e8afb492c2f8ac
+    projectPath: Temp\UnityTempFile-18623eb87a684b7459e8afb492c2f8ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-18da17d2bd198e847be9a8a4dc7df615
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-18da17d2bd198e847be9a8a4dc7df615
+    projectPath: Temp\UnityTempFile-18da17d2bd198e847be9a8a4dc7df615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-197c434b33adda9448d10c97b00da479
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-197c434b33adda9448d10c97b00da479
+    projectPath: Temp\UnityTempFile-197c434b33adda9448d10c97b00da479
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1b7c8f896d29f0e4db8a9f5ae89c14b3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-1b7c8f896d29f0e4db8a9f5ae89c14b3
+    projectPath: Temp\UnityTempFile-1b7c8f896d29f0e4db8a9f5ae89c14b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1c510e1ecb214cf4092234530f4c7c4e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-1c510e1ecb214cf4092234530f4c7c4e
+    projectPath: Temp\UnityTempFile-1c510e1ecb214cf4092234530f4c7c4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1ca4ca286b92a984d83d526cd3c26a35
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-1ca4ca286b92a984d83d526cd3c26a35
+    projectPath: Temp\UnityTempFile-1ca4ca286b92a984d83d526cd3c26a35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1ff0ed1d36ec8b2408111f60e4402b02
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-1ff0ed1d36ec8b2408111f60e4402b02
+    projectPath: Temp\UnityTempFile-1ff0ed1d36ec8b2408111f60e4402b02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2020d1d3f45bf5542948cad682acfc8c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-2020d1d3f45bf5542948cad682acfc8c
+    projectPath: Temp\UnityTempFile-2020d1d3f45bf5542948cad682acfc8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-20f58045f061ebe45bcdf16a172544f4
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-20f58045f061ebe45bcdf16a172544f4
+    projectPath: Temp\UnityTempFile-20f58045f061ebe45bcdf16a172544f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-22d0bfaef49e0c54080b93ee868b04b8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-22d0bfaef49e0c54080b93ee868b04b8
+    projectPath: Temp\UnityTempFile-22d0bfaef49e0c54080b93ee868b04b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-238e388b5f0884e49a33634af88ea795
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-238e388b5f0884e49a33634af88ea795
+    projectPath: Temp\UnityTempFile-238e388b5f0884e49a33634af88ea795
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-24d7a250c31b871429a2d32f139c0eaf
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-24d7a250c31b871429a2d32f139c0eaf
+    projectPath: Temp\UnityTempFile-24d7a250c31b871429a2d32f139c0eaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-256c14f71f17a67448ccdd5b9621ca0c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-256c14f71f17a67448ccdd5b9621ca0c
+    projectPath: Temp\UnityTempFile-256c14f71f17a67448ccdd5b9621ca0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-25af39cf0b8b5854fafaafcb0f4e68fe
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-25af39cf0b8b5854fafaafcb0f4e68fe
+    projectPath: Temp\UnityTempFile-25af39cf0b8b5854fafaafcb0f4e68fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-25cb3fbf11440c84ebd8bb1a7799b61d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-25cb3fbf11440c84ebd8bb1a7799b61d
+    projectPath: Temp\UnityTempFile-25cb3fbf11440c84ebd8bb1a7799b61d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-27376085ad45faa4cbf4dcabc179a33a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-27376085ad45faa4cbf4dcabc179a33a
+    projectPath: Temp\UnityTempFile-27376085ad45faa4cbf4dcabc179a33a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-275b37acb1518ea4d81e3878b353e647
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-275b37acb1518ea4d81e3878b353e647
+    projectPath: Temp\UnityTempFile-275b37acb1518ea4d81e3878b353e647
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-28efd76932978864b8ddc8880890811c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-28efd76932978864b8ddc8880890811c
+    projectPath: Temp\UnityTempFile-28efd76932978864b8ddc8880890811c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-293026a1ea72679408c8bd1ac5932f0b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-293026a1ea72679408c8bd1ac5932f0b
+    projectPath: Temp\UnityTempFile-293026a1ea72679408c8bd1ac5932f0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2a17f59571ba23c46a58698d23cd7f24
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-2a17f59571ba23c46a58698d23cd7f24
+    projectPath: Temp\UnityTempFile-2a17f59571ba23c46a58698d23cd7f24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2b3f85b5699193648981033a7d931902
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-2b3f85b5699193648981033a7d931902
+    projectPath: Temp\UnityTempFile-2b3f85b5699193648981033a7d931902
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2bd4b48b8af7b444ea8c4cfd0c9ba2ab
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-2bd4b48b8af7b444ea8c4cfd0c9ba2ab
+    projectPath: Temp\UnityTempFile-2bd4b48b8af7b444ea8c4cfd0c9ba2ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2c0a510566b78de4f82fee59ed30876c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-2c0a510566b78de4f82fee59ed30876c
+    projectPath: Temp\UnityTempFile-2c0a510566b78de4f82fee59ed30876c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2c9bb1ccbd9d6fd4b8200b82c8178e00
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-2c9bb1ccbd9d6fd4b8200b82c8178e00
+    projectPath: Temp\UnityTempFile-2c9bb1ccbd9d6fd4b8200b82c8178e00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2d2bf9aba08989f498b00c9687c22b49
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-2d2bf9aba08989f498b00c9687c22b49
+    projectPath: Temp\UnityTempFile-2d2bf9aba08989f498b00c9687c22b49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-308bed97b4c69be4491f0d3c2d5d93b1
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-308bed97b4c69be4491f0d3c2d5d93b1
+    projectPath: Temp\UnityTempFile-308bed97b4c69be4491f0d3c2d5d93b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-308f1e1651c337645a7d7c1886ba58a7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-308f1e1651c337645a7d7c1886ba58a7
+    projectPath: Temp\UnityTempFile-308f1e1651c337645a7d7c1886ba58a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3200759e92204b04698e465a1984ed9a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-3200759e92204b04698e465a1984ed9a
+    projectPath: Temp\UnityTempFile-3200759e92204b04698e465a1984ed9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-32daa904df16ef1409faa17ade528bf5
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-32daa904df16ef1409faa17ade528bf5
+    projectPath: Temp\UnityTempFile-32daa904df16ef1409faa17ade528bf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-33f89253041b5cf4b9fc08034f15b751
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-33f89253041b5cf4b9fc08034f15b751
+    projectPath: Temp\UnityTempFile-33f89253041b5cf4b9fc08034f15b751
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-344e087f2068c354292cd99fc2999582
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-344e087f2068c354292cd99fc2999582
+    projectPath: Temp\UnityTempFile-344e087f2068c354292cd99fc2999582
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3467ace06d7322f468919b4f0abf4592
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-3467ace06d7322f468919b4f0abf4592
+    projectPath: Temp\UnityTempFile-3467ace06d7322f468919b4f0abf4592
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-372f3eefa52d1674aa3cdcefd0b8caee
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-372f3eefa52d1674aa3cdcefd0b8caee
+    projectPath: Temp\UnityTempFile-372f3eefa52d1674aa3cdcefd0b8caee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-376b7b8b631c585439eb4a7aa1782bf7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-376b7b8b631c585439eb4a7aa1782bf7
+    projectPath: Temp\UnityTempFile-376b7b8b631c585439eb4a7aa1782bf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3b2c6a8b318ae2a49a600e9cda8060e3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-3b2c6a8b318ae2a49a600e9cda8060e3
+    projectPath: Temp\UnityTempFile-3b2c6a8b318ae2a49a600e9cda8060e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3b46201891803e34497cae4d2e76d31f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-3b46201891803e34497cae4d2e76d31f
+    projectPath: Temp\UnityTempFile-3b46201891803e34497cae4d2e76d31f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3ed0f0ecaa30d0c409bd01d49a9b8858
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-3ed0f0ecaa30d0c409bd01d49a9b8858
+    projectPath: Temp\UnityTempFile-3ed0f0ecaa30d0c409bd01d49a9b8858
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3fe74feec669f8049abedd0563128fdc
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-3fe74feec669f8049abedd0563128fdc
+    projectPath: Temp\UnityTempFile-3fe74feec669f8049abedd0563128fdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4012ad674ef80534cb6e7d6d77aad592
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4012ad674ef80534cb6e7d6d77aad592
+    projectPath: Temp\UnityTempFile-4012ad674ef80534cb6e7d6d77aad592
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-409eb1f19171ef848b56e60fa6aea00d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-409eb1f19171ef848b56e60fa6aea00d
+    projectPath: Temp\UnityTempFile-409eb1f19171ef848b56e60fa6aea00d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4148d0aa57dd81c4c9e784a7a90caaa0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4148d0aa57dd81c4c9e784a7a90caaa0
+    projectPath: Temp\UnityTempFile-4148d0aa57dd81c4c9e784a7a90caaa0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-41877eca6560e3c4fb102d57b76dccb1
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-41877eca6560e3c4fb102d57b76dccb1
+    projectPath: Temp\UnityTempFile-41877eca6560e3c4fb102d57b76dccb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4488443bece1ecc48a10d1e9b5fa5ba5
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4488443bece1ecc48a10d1e9b5fa5ba5
+    projectPath: Temp\UnityTempFile-4488443bece1ecc48a10d1e9b5fa5ba5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-44c330829cd2fb644b1c04a1dda3144d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-44c330829cd2fb644b1c04a1dda3144d
+    projectPath: Temp\UnityTempFile-44c330829cd2fb644b1c04a1dda3144d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-45722fbfa46ce464389e17bc35c54ebd
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-45722fbfa46ce464389e17bc35c54ebd
+    projectPath: Temp\UnityTempFile-45722fbfa46ce464389e17bc35c54ebd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4669cf76ce5dbc44391d0537f6859a5a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4669cf76ce5dbc44391d0537f6859a5a
+    projectPath: Temp\UnityTempFile-4669cf76ce5dbc44391d0537f6859a5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-46962efe8df94dd4883210d0fdbca131
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-46962efe8df94dd4883210d0fdbca131
+    projectPath: Temp\UnityTempFile-46962efe8df94dd4883210d0fdbca131
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-470aa229a2b8dac46b172781560f71a0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-470aa229a2b8dac46b172781560f71a0
+    projectPath: Temp\UnityTempFile-470aa229a2b8dac46b172781560f71a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-47601772e5911f0449a645397972d2d7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-47601772e5911f0449a645397972d2d7
+    projectPath: Temp\UnityTempFile-47601772e5911f0449a645397972d2d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-47c847953c0949243887adbeacd2787b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-47c847953c0949243887adbeacd2787b
+    projectPath: Temp\UnityTempFile-47c847953c0949243887adbeacd2787b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-481f73055db474a428b5a2baed0849d1
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-481f73055db474a428b5a2baed0849d1
+    projectPath: Temp\UnityTempFile-481f73055db474a428b5a2baed0849d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-48400fe6080221a4dadd61cd083a681f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-48400fe6080221a4dadd61cd083a681f
+    projectPath: Temp\UnityTempFile-48400fe6080221a4dadd61cd083a681f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-48f76e4acf0ac4941a0daaaa794b3f4f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-48f76e4acf0ac4941a0daaaa794b3f4f
+    projectPath: Temp\UnityTempFile-48f76e4acf0ac4941a0daaaa794b3f4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-496cf2b60dbc43d4f8ed6008f42fe656
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-496cf2b60dbc43d4f8ed6008f42fe656
+    projectPath: Temp\UnityTempFile-496cf2b60dbc43d4f8ed6008f42fe656
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-49a0e7dec12093a48a54376043532f09
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-49a0e7dec12093a48a54376043532f09
+    projectPath: Temp\UnityTempFile-49a0e7dec12093a48a54376043532f09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4b8a72c1f98b566459f5c1e3eb1dcb28
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4b8a72c1f98b566459f5c1e3eb1dcb28
+    projectPath: Temp\UnityTempFile-4b8a72c1f98b566459f5c1e3eb1dcb28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4c913445755a9884fb4a96c609fe86a3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4c913445755a9884fb4a96c609fe86a3
+    projectPath: Temp\UnityTempFile-4c913445755a9884fb4a96c609fe86a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4ca132146548c8e45afaeb4d80af058d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4ca132146548c8e45afaeb4d80af058d
+    projectPath: Temp\UnityTempFile-4ca132146548c8e45afaeb4d80af058d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4cadbc46fdae8244c8be6db7c956fdd7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4cadbc46fdae8244c8be6db7c956fdd7
+    projectPath: Temp\UnityTempFile-4cadbc46fdae8244c8be6db7c956fdd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4f5efa5b2f0ac014e96c6ba1631609c2
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-4f5efa5b2f0ac014e96c6ba1631609c2
+    projectPath: Temp\UnityTempFile-4f5efa5b2f0ac014e96c6ba1631609c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-526523473ad6e0d468314b87b0856efd
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-526523473ad6e0d468314b87b0856efd
+    projectPath: Temp\UnityTempFile-526523473ad6e0d468314b87b0856efd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-530d9054c2619064e93b51d2e33ed7ff
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-530d9054c2619064e93b51d2e33ed7ff
+    projectPath: Temp\UnityTempFile-530d9054c2619064e93b51d2e33ed7ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-54117ad3808cb5745b56bf8d8b06f245
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-54117ad3808cb5745b56bf8d8b06f245
+    projectPath: Temp\UnityTempFile-54117ad3808cb5745b56bf8d8b06f245
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-56f3de70cf7d45342951be0c02629b00
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-56f3de70cf7d45342951be0c02629b00
+    projectPath: Temp\UnityTempFile-56f3de70cf7d45342951be0c02629b00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-57a0db1ab7bc38a43a001430e37cb6d4
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-57a0db1ab7bc38a43a001430e37cb6d4
+    projectPath: Temp\UnityTempFile-57a0db1ab7bc38a43a001430e37cb6d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-580684e2910381e4cb208c46e38a8d96
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-580684e2910381e4cb208c46e38a8d96
+    projectPath: Temp\UnityTempFile-580684e2910381e4cb208c46e38a8d96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-584c822ef35a0604c8162f0dbb5c3d40
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-584c822ef35a0604c8162f0dbb5c3d40
+    projectPath: Temp\UnityTempFile-584c822ef35a0604c8162f0dbb5c3d40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-59092b743820edf4480cf6b3e9fe9e23
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-59092b743820edf4480cf6b3e9fe9e23
+    projectPath: Temp\UnityTempFile-59092b743820edf4480cf6b3e9fe9e23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-59dd4ed4829a33a49a93c9dd3843c57c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-59dd4ed4829a33a49a93c9dd3843c57c
+    projectPath: Temp\UnityTempFile-59dd4ed4829a33a49a93c9dd3843c57c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5a4ba09656eb71b4ca47da91d532537e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5a4ba09656eb71b4ca47da91d532537e
+    projectPath: Temp\UnityTempFile-5a4ba09656eb71b4ca47da91d532537e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5ac06349d39457648aeae263e75190d1
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5ac06349d39457648aeae263e75190d1
+    projectPath: Temp\UnityTempFile-5ac06349d39457648aeae263e75190d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5ac6af523474e424ab4e01dc10127520
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5ac6af523474e424ab4e01dc10127520
+    projectPath: Temp\UnityTempFile-5ac6af523474e424ab4e01dc10127520
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5b5c1a188b0dc6e4e9a9d22dd1d348be
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5b5c1a188b0dc6e4e9a9d22dd1d348be
+    projectPath: Temp\UnityTempFile-5b5c1a188b0dc6e4e9a9d22dd1d348be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5e2c5657d28831949a416a9ea3ff9d16
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5e2c5657d28831949a416a9ea3ff9d16
+    projectPath: Temp\UnityTempFile-5e2c5657d28831949a416a9ea3ff9d16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5e7a50f17137b5947b3bdaba27d4ab1a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5e7a50f17137b5947b3bdaba27d4ab1a
+    projectPath: Temp\UnityTempFile-5e7a50f17137b5947b3bdaba27d4ab1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5e939993c0cbfb5418a1f19098771bfa
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-5e939993c0cbfb5418a1f19098771bfa
+    projectPath: Temp\UnityTempFile-5e939993c0cbfb5418a1f19098771bfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-61149d03b8a97a84c96c2f488bfa3d45
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-61149d03b8a97a84c96c2f488bfa3d45
+    projectPath: Temp\UnityTempFile-61149d03b8a97a84c96c2f488bfa3d45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-61abc7015b7804d4b93bbcfce9e36bae
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-61abc7015b7804d4b93bbcfce9e36bae
+    projectPath: Temp\UnityTempFile-61abc7015b7804d4b93bbcfce9e36bae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-61b42851bcee25b4b8b01f9f84b0bc7e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-61b42851bcee25b4b8b01f9f84b0bc7e
+    projectPath: Temp\UnityTempFile-61b42851bcee25b4b8b01f9f84b0bc7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-637606bfc05bd0149b421c376083739d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-637606bfc05bd0149b421c376083739d
+    projectPath: Temp\UnityTempFile-637606bfc05bd0149b421c376083739d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-63ae6c8af8e0e5f46872d6c36fa3a4d7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-63ae6c8af8e0e5f46872d6c36fa3a4d7
+    projectPath: Temp\UnityTempFile-63ae6c8af8e0e5f46872d6c36fa3a4d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6430ca418fa421248b222258bcc122ba
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6430ca418fa421248b222258bcc122ba
+    projectPath: Temp\UnityTempFile-6430ca418fa421248b222258bcc122ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6437e29f67da34e479316c2adeec0782
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6437e29f67da34e479316c2adeec0782
+    projectPath: Temp\UnityTempFile-6437e29f67da34e479316c2adeec0782
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-643afc358f2d25c4d93a601d5150ec28
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-643afc358f2d25c4d93a601d5150ec28
+    projectPath: Temp\UnityTempFile-643afc358f2d25c4d93a601d5150ec28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-64ac8d55f2594384480188f7dc099e1a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-64ac8d55f2594384480188f7dc099e1a
+    projectPath: Temp\UnityTempFile-64ac8d55f2594384480188f7dc099e1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-662e0dcab563aa548bb4fd97ffe82389
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-662e0dcab563aa548bb4fd97ffe82389
+    projectPath: Temp\UnityTempFile-662e0dcab563aa548bb4fd97ffe82389
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-66a01c92fcafcd14385d123832a791ba
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-66a01c92fcafcd14385d123832a791ba
+    projectPath: Temp\UnityTempFile-66a01c92fcafcd14385d123832a791ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-68add7c4faf731541911ee5991f32a89
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-68add7c4faf731541911ee5991f32a89
+    projectPath: Temp\UnityTempFile-68add7c4faf731541911ee5991f32a89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-693be8d88ab857c4593c2c6c0d90e06e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-693be8d88ab857c4593c2c6c0d90e06e
+    projectPath: Temp\UnityTempFile-693be8d88ab857c4593c2c6c0d90e06e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6a27bbc7e7a931b4a89266eb8d473bcc
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6a27bbc7e7a931b4a89266eb8d473bcc
+    projectPath: Temp\UnityTempFile-6a27bbc7e7a931b4a89266eb8d473bcc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c5466de0ae5fed458d4d99f3043086e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6c5466de0ae5fed458d4d99f3043086e
+    projectPath: Temp\UnityTempFile-6c5466de0ae5fed458d4d99f3043086e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c5575534ce4f874cabc749c8beb43d8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6c5575534ce4f874cabc749c8beb43d8
+    projectPath: Temp\UnityTempFile-6c5575534ce4f874cabc749c8beb43d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c696ca64c2e9f845b4732f990e92cd2
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6c696ca64c2e9f845b4732f990e92cd2
+    projectPath: Temp\UnityTempFile-6c696ca64c2e9f845b4732f990e92cd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6cb28a5726f170c459d91bd28619e3b4
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6cb28a5726f170c459d91bd28619e3b4
+    projectPath: Temp\UnityTempFile-6cb28a5726f170c459d91bd28619e3b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6d326bc31886bde4883bce88c6d31845
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6d326bc31886bde4883bce88c6d31845
+    projectPath: Temp\UnityTempFile-6d326bc31886bde4883bce88c6d31845
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6d8f4c54ba4535d4bb782510320fa4ed
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6d8f4c54ba4535d4bb782510320fa4ed
+    projectPath: Temp\UnityTempFile-6d8f4c54ba4535d4bb782510320fa4ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6ed1f8fe7d3715f458844fa24a7e2093
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6ed1f8fe7d3715f458844fa24a7e2093
+    projectPath: Temp\UnityTempFile-6ed1f8fe7d3715f458844fa24a7e2093
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6f0eeef7b98098240b1837d2595eaafb
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-6f0eeef7b98098240b1837d2595eaafb
+    projectPath: Temp\UnityTempFile-6f0eeef7b98098240b1837d2595eaafb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-708ac507a22fcbc408c69c588f4fffc9
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-708ac507a22fcbc408c69c588f4fffc9
+    projectPath: Temp\UnityTempFile-708ac507a22fcbc408c69c588f4fffc9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-70e0874a7e71a374dba317154293792f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-70e0874a7e71a374dba317154293792f
+    projectPath: Temp\UnityTempFile-70e0874a7e71a374dba317154293792f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-710823bbe8ff2f748a58135af8792bba
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-710823bbe8ff2f748a58135af8792bba
+    projectPath: Temp\UnityTempFile-710823bbe8ff2f748a58135af8792bba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-714d58c48fd1bdd47bf628acd9449242
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-714d58c48fd1bdd47bf628acd9449242
+    projectPath: Temp\UnityTempFile-714d58c48fd1bdd47bf628acd9449242
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7172f000f6e1e5f488112b7930dbcdbc
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-7172f000f6e1e5f488112b7930dbcdbc
+    projectPath: Temp\UnityTempFile-7172f000f6e1e5f488112b7930dbcdbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7554adc795a0b96479fab8dc049ea0a3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-7554adc795a0b96479fab8dc049ea0a3
+    projectPath: Temp\UnityTempFile-7554adc795a0b96479fab8dc049ea0a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-75c270bc2add73a459a94b0ac29a67b8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-75c270bc2add73a459a94b0ac29a67b8
+    projectPath: Temp\UnityTempFile-75c270bc2add73a459a94b0ac29a67b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-75f3b49417558e14792aba76a6a1df5c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-75f3b49417558e14792aba76a6a1df5c
+    projectPath: Temp\UnityTempFile-75f3b49417558e14792aba76a6a1df5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-76345c7d83eb4f64688f5dd03078a7b8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-76345c7d83eb4f64688f5dd03078a7b8
+    projectPath: Temp\UnityTempFile-76345c7d83eb4f64688f5dd03078a7b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-772a6fdd66333cd49bc836f8b8922e5a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-772a6fdd66333cd49bc836f8b8922e5a
+    projectPath: Temp\UnityTempFile-772a6fdd66333cd49bc836f8b8922e5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7736965c52990c04682288012132a6fd
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-7736965c52990c04682288012132a6fd
+    projectPath: Temp\UnityTempFile-7736965c52990c04682288012132a6fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-79d15346cf1037b43b34071f07372c3c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-79d15346cf1037b43b34071f07372c3c
+    projectPath: Temp\UnityTempFile-79d15346cf1037b43b34071f07372c3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7d0a9fd66e15e6d41bc772d042a7fd32
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-7d0a9fd66e15e6d41bc772d042a7fd32
+    projectPath: Temp\UnityTempFile-7d0a9fd66e15e6d41bc772d042a7fd32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7d43c2c971e5c0142b53f04d00f1dc43
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-7d43c2c971e5c0142b53f04d00f1dc43
+    projectPath: Temp\UnityTempFile-7d43c2c971e5c0142b53f04d00f1dc43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7ed3df865429af149a198d9ec3c1d0fd
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-7ed3df865429af149a198d9ec3c1d0fd
+    projectPath: Temp\UnityTempFile-7ed3df865429af149a198d9ec3c1d0fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-806fef098fb4def4393b62dd6761b9fe
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-806fef098fb4def4393b62dd6761b9fe
+    projectPath: Temp\UnityTempFile-806fef098fb4def4393b62dd6761b9fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-80ab55f7883a85f46904155cb801e971
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-80ab55f7883a85f46904155cb801e971
+    projectPath: Temp\UnityTempFile-80ab55f7883a85f46904155cb801e971
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-80f114b12ee82964d872ea2b2b31be1b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-80f114b12ee82964d872ea2b2b31be1b
+    projectPath: Temp\UnityTempFile-80f114b12ee82964d872ea2b2b31be1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-814d051fc74e3e0479086dbd3d0b3875
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-814d051fc74e3e0479086dbd3d0b3875
+    projectPath: Temp\UnityTempFile-814d051fc74e3e0479086dbd3d0b3875
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-830022019c1a80e418557c109193b3c6
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-830022019c1a80e418557c109193b3c6
+    projectPath: Temp\UnityTempFile-830022019c1a80e418557c109193b3c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-83530091f48e0c84a83f05fb966236a3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-83530091f48e0c84a83f05fb966236a3
+    projectPath: Temp\UnityTempFile-83530091f48e0c84a83f05fb966236a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-838dd0daaa257874e839425c12957dee
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-838dd0daaa257874e839425c12957dee
+    projectPath: Temp\UnityTempFile-838dd0daaa257874e839425c12957dee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-83f38d716f4f8d8499e40a177cdeeb86
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-83f38d716f4f8d8499e40a177cdeeb86
+    projectPath: Temp\UnityTempFile-83f38d716f4f8d8499e40a177cdeeb86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8429bab6a14ab3d46a82539a033eb32e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8429bab6a14ab3d46a82539a033eb32e
+    projectPath: Temp\UnityTempFile-8429bab6a14ab3d46a82539a033eb32e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8512ffd8c00ff2048a6412d2781987c0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8512ffd8c00ff2048a6412d2781987c0
+    projectPath: Temp\UnityTempFile-8512ffd8c00ff2048a6412d2781987c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8520200776a3605448f89483c317fb55
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8520200776a3605448f89483c317fb55
+    projectPath: Temp\UnityTempFile-8520200776a3605448f89483c317fb55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-85db3d8f4d586324688935aaf66e6666
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-85db3d8f4d586324688935aaf66e6666
+    projectPath: Temp\UnityTempFile-85db3d8f4d586324688935aaf66e6666
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8629eb32801bf834e802ac19e787b01e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8629eb32801bf834e802ac19e787b01e
+    projectPath: Temp\UnityTempFile-8629eb32801bf834e802ac19e787b01e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-871bd732f51b3164db1bc91ef586f071
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-871bd732f51b3164db1bc91ef586f071
+    projectPath: Temp\UnityTempFile-871bd732f51b3164db1bc91ef586f071
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-87a74fdb9343a5a4cae24bc2b4c6ce4a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-87a74fdb9343a5a4cae24bc2b4c6ce4a
+    projectPath: Temp\UnityTempFile-87a74fdb9343a5a4cae24bc2b4c6ce4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-88bf842ab6d759c4aa128de255217a77
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-88bf842ab6d759c4aa128de255217a77
+    projectPath: Temp\UnityTempFile-88bf842ab6d759c4aa128de255217a77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-894667557a5929a4a966182f01d3e25d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-894667557a5929a4a966182f01d3e25d
+    projectPath: Temp\UnityTempFile-894667557a5929a4a966182f01d3e25d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-89a36bcdbfb294a44a5a2fc118954e98
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-89a36bcdbfb294a44a5a2fc118954e98
+    projectPath: Temp\UnityTempFile-89a36bcdbfb294a44a5a2fc118954e98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8a7cee307f7aee84ba42efb86b99039f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8a7cee307f7aee84ba42efb86b99039f
+    projectPath: Temp\UnityTempFile-8a7cee307f7aee84ba42efb86b99039f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8b62e4f93df95e446950f7dd43e117fa
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8b62e4f93df95e446950f7dd43e117fa
+    projectPath: Temp\UnityTempFile-8b62e4f93df95e446950f7dd43e117fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8bc3b43c8a49f8d49a854eb38d2f6890
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8bc3b43c8a49f8d49a854eb38d2f6890
+    projectPath: Temp\UnityTempFile-8bc3b43c8a49f8d49a854eb38d2f6890
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8bd49e734b14c1c45a2ad752665fb496
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8bd49e734b14c1c45a2ad752665fb496
+    projectPath: Temp\UnityTempFile-8bd49e734b14c1c45a2ad752665fb496
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8c41d5b81413526438755bcdb8d800cb
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8c41d5b81413526438755bcdb8d800cb
+    projectPath: Temp\UnityTempFile-8c41d5b81413526438755bcdb8d800cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8e2d8c6b0abb7f4478bc4df727023b29
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8e2d8c6b0abb7f4478bc4df727023b29
+    projectPath: Temp\UnityTempFile-8e2d8c6b0abb7f4478bc4df727023b29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8f2cb86cf7c36384f89b65b00f604ff7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8f2cb86cf7c36384f89b65b00f604ff7
+    projectPath: Temp\UnityTempFile-8f2cb86cf7c36384f89b65b00f604ff7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8f8f74ca6ea7d1946aee8adf33d39760
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-8f8f74ca6ea7d1946aee8adf33d39760
+    projectPath: Temp\UnityTempFile-8f8f74ca6ea7d1946aee8adf33d39760
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-911e897706a1c8f49bbfba5bcfb9d6b2
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-911e897706a1c8f49bbfba5bcfb9d6b2
+    projectPath: Temp\UnityTempFile-911e897706a1c8f49bbfba5bcfb9d6b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9171444015cf7fc47a0ac0e3b7378ca8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9171444015cf7fc47a0ac0e3b7378ca8
+    projectPath: Temp\UnityTempFile-9171444015cf7fc47a0ac0e3b7378ca8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-91a10f88716cdcd408d5886c4e48edc2
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-91a10f88716cdcd408d5886c4e48edc2
+    projectPath: Temp\UnityTempFile-91a10f88716cdcd408d5886c4e48edc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94e44b82655b7b547a91a7d74e647d91
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-94e44b82655b7b547a91a7d74e647d91
+    projectPath: Temp\UnityTempFile-94e44b82655b7b547a91a7d74e647d91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-962c24ee87076214a81d616ada84ba80
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-962c24ee87076214a81d616ada84ba80
+    projectPath: Temp\UnityTempFile-962c24ee87076214a81d616ada84ba80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-971948f76f8088b4fba6a403bf6ef8f3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-971948f76f8088b4fba6a403bf6ef8f3
+    projectPath: Temp\UnityTempFile-971948f76f8088b4fba6a403bf6ef8f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-971de402ed7fc1e4d80f4f90f368723c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-971de402ed7fc1e4d80f4f90f368723c
+    projectPath: Temp\UnityTempFile-971de402ed7fc1e4d80f4f90f368723c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-971eb8cc2378a824e97c07e0a1bf6fb7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-971eb8cc2378a824e97c07e0a1bf6fb7
+    projectPath: Temp\UnityTempFile-971eb8cc2378a824e97c07e0a1bf6fb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9731f788ecf07df46a115f6f76e84f0b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9731f788ecf07df46a115f6f76e84f0b
+    projectPath: Temp\UnityTempFile-9731f788ecf07df46a115f6f76e84f0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-994a124657bb1f54dab3a6ed002d8953
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-994a124657bb1f54dab3a6ed002d8953
+    projectPath: Temp\UnityTempFile-994a124657bb1f54dab3a6ed002d8953
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9a0448c2d812970419bd704d4bdafd38
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9a0448c2d812970419bd704d4bdafd38
+    projectPath: Temp\UnityTempFile-9a0448c2d812970419bd704d4bdafd38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9b940d67b8498054f8d5c4e474268b7f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9b940d67b8498054f8d5c4e474268b7f
+    projectPath: Temp\UnityTempFile-9b940d67b8498054f8d5c4e474268b7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9bfbd3ee2db4f6a4a9a231d9bfb5fcdb
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9bfbd3ee2db4f6a4a9a231d9bfb5fcdb
+    projectPath: Temp\UnityTempFile-9bfbd3ee2db4f6a4a9a231d9bfb5fcdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9dfb34079ab48854dbac9a4f6b527426
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9dfb34079ab48854dbac9a4f6b527426
+    projectPath: Temp\UnityTempFile-9dfb34079ab48854dbac9a4f6b527426
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f3cc90e21b5a524b9ff2b3b92d7d1da
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9f3cc90e21b5a524b9ff2b3b92d7d1da
+    projectPath: Temp\UnityTempFile-9f3cc90e21b5a524b9ff2b3b92d7d1da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f488ab33bcd1794ab8775c10337ba4f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9f488ab33bcd1794ab8775c10337ba4f
+    projectPath: Temp\UnityTempFile-9f488ab33bcd1794ab8775c10337ba4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f49692872a9a9f46878c482577bec84
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9f49692872a9a9f46878c482577bec84
+    projectPath: Temp\UnityTempFile-9f49692872a9a9f46878c482577bec84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f4cf7beb5d1775489d5aec16bddaed7
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-9f4cf7beb5d1775489d5aec16bddaed7
+    projectPath: Temp\UnityTempFile-9f4cf7beb5d1775489d5aec16bddaed7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a10ddb183acd42c4d807d065e80ce3ea
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a10ddb183acd42c4d807d065e80ce3ea
+    projectPath: Temp\UnityTempFile-a10ddb183acd42c4d807d065e80ce3ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a2afe4422252f124cb8b4629de5e95b9
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a2afe4422252f124cb8b4629de5e95b9
+    projectPath: Temp\UnityTempFile-a2afe4422252f124cb8b4629de5e95b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a30b407b96b0736409561d82e31ae6d3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a30b407b96b0736409561d82e31ae6d3
+    projectPath: Temp\UnityTempFile-a30b407b96b0736409561d82e31ae6d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a4ee370983c73394c8a366f18093b63a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a4ee370983c73394c8a366f18093b63a
+    projectPath: Temp\UnityTempFile-a4ee370983c73394c8a366f18093b63a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a5526f710cf59614392c204e1f512dde
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a5526f710cf59614392c204e1f512dde
+    projectPath: Temp\UnityTempFile-a5526f710cf59614392c204e1f512dde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a5a4804b527cd414bb1a89efdaff22a6
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a5a4804b527cd414bb1a89efdaff22a6
+    projectPath: Temp\UnityTempFile-a5a4804b527cd414bb1a89efdaff22a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a5f0e04681f02bd4b9180f57f62b2659
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a5f0e04681f02bd4b9180f57f62b2659
+    projectPath: Temp\UnityTempFile-a5f0e04681f02bd4b9180f57f62b2659
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a624dadcfbe140f40b095894db72bfd2
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a624dadcfbe140f40b095894db72bfd2
+    projectPath: Temp\UnityTempFile-a624dadcfbe140f40b095894db72bfd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a69b24678deb0864690d4e48b4eba303
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-a69b24678deb0864690d4e48b4eba303
+    projectPath: Temp\UnityTempFile-a69b24678deb0864690d4e48b4eba303
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-aae93c745d1b538438cf3ca38da74877
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-aae93c745d1b538438cf3ca38da74877
+    projectPath: Temp\UnityTempFile-aae93c745d1b538438cf3ca38da74877
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b0cacd4902c241b4eb04087e4b30c9f8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b0cacd4902c241b4eb04087e4b30c9f8
+    projectPath: Temp\UnityTempFile-b0cacd4902c241b4eb04087e4b30c9f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b11d319975d2bec4d8bfd52eac93dd2f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b11d319975d2bec4d8bfd52eac93dd2f
+    projectPath: Temp\UnityTempFile-b11d319975d2bec4d8bfd52eac93dd2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b180194ed10dfe64383e4dc9bf69385b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b180194ed10dfe64383e4dc9bf69385b
+    projectPath: Temp\UnityTempFile-b180194ed10dfe64383e4dc9bf69385b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b25d0330e8bc1ff49875313012acd2ae
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b25d0330e8bc1ff49875313012acd2ae
+    projectPath: Temp\UnityTempFile-b25d0330e8bc1ff49875313012acd2ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b2677ae4fd789f047b657d5ce55901b5
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b2677ae4fd789f047b657d5ce55901b5
+    projectPath: Temp\UnityTempFile-b2677ae4fd789f047b657d5ce55901b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b2e43af4b4be2854982e639c2fc53d9c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b2e43af4b4be2854982e639c2fc53d9c
+    projectPath: Temp\UnityTempFile-b2e43af4b4be2854982e639c2fc53d9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b51838a6af270b548b58b2507213d668
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b51838a6af270b548b58b2507213d668
+    projectPath: Temp\UnityTempFile-b51838a6af270b548b58b2507213d668
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b5ed5c9a87a2ee744904cf3f20dc22bb
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b5ed5c9a87a2ee744904cf3f20dc22bb
+    projectPath: Temp\UnityTempFile-b5ed5c9a87a2ee744904cf3f20dc22bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b791036000447c543b1b5c896f353432
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b791036000447c543b1b5c896f353432
+    projectPath: Temp\UnityTempFile-b791036000447c543b1b5c896f353432
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b7eb1d7b50fe91f42a542fdcde42c62b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b7eb1d7b50fe91f42a542fdcde42c62b
+    projectPath: Temp\UnityTempFile-b7eb1d7b50fe91f42a542fdcde42c62b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b8c3de938d63fcf459a2841dfa5339d8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-b8c3de938d63fcf459a2841dfa5339d8
+    projectPath: Temp\UnityTempFile-b8c3de938d63fcf459a2841dfa5339d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bb37ace60e4089c43875dd8fe36baf75
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-bb37ace60e4089c43875dd8fe36baf75
+    projectPath: Temp\UnityTempFile-bb37ace60e4089c43875dd8fe36baf75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bbf6996dfe391a845962603dc69dce15
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-bbf6996dfe391a845962603dc69dce15
+    projectPath: Temp\UnityTempFile-bbf6996dfe391a845962603dc69dce15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bdb8e60846c631542bc73d8a061aa2b3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-bdb8e60846c631542bc73d8a061aa2b3
+    projectPath: Temp\UnityTempFile-bdb8e60846c631542bc73d8a061aa2b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-be1d4797765199b42916ae92d2578058
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-be1d4797765199b42916ae92d2578058
+    projectPath: Temp\UnityTempFile-be1d4797765199b42916ae92d2578058
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-be653568d6e270a4d8ff38f418df68f8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-be653568d6e270a4d8ff38f418df68f8
+    projectPath: Temp\UnityTempFile-be653568d6e270a4d8ff38f418df68f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-be76b0359b7dd0947aa75ef534fbc8ee
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-be76b0359b7dd0947aa75ef534fbc8ee
+    projectPath: Temp\UnityTempFile-be76b0359b7dd0947aa75ef534fbc8ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bea476c0712729d42ab2687f04055cb8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-bea476c0712729d42ab2687f04055cb8
+    projectPath: Temp\UnityTempFile-bea476c0712729d42ab2687f04055cb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bf447f4da643aee4389d1e09dddeb3aa
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-bf447f4da643aee4389d1e09dddeb3aa
+    projectPath: Temp\UnityTempFile-bf447f4da643aee4389d1e09dddeb3aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c00e74136f5e2264a9489a01b960e31d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c00e74136f5e2264a9489a01b960e31d
+    projectPath: Temp\UnityTempFile-c00e74136f5e2264a9489a01b960e31d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c0e4da06791f48d45b481c5aa975f6ee
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c0e4da06791f48d45b481c5aa975f6ee
+    projectPath: Temp\UnityTempFile-c0e4da06791f48d45b481c5aa975f6ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c0edd722fd76b264c94ab58d3cf12d55
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c0edd722fd76b264c94ab58d3cf12d55
+    projectPath: Temp\UnityTempFile-c0edd722fd76b264c94ab58d3cf12d55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c1529e260465b09408397a8cf3230bbc
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c1529e260465b09408397a8cf3230bbc
+    projectPath: Temp\UnityTempFile-c1529e260465b09408397a8cf3230bbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c18dd5a4660765342b2d600bdcf5ba15
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c18dd5a4660765342b2d600bdcf5ba15
+    projectPath: Temp\UnityTempFile-c18dd5a4660765342b2d600bdcf5ba15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c212a1fd5a01ea1469840b546927736f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c212a1fd5a01ea1469840b546927736f
+    projectPath: Temp\UnityTempFile-c212a1fd5a01ea1469840b546927736f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c511408e24f69564d94fb35670fe6512
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c511408e24f69564d94fb35670fe6512
+    projectPath: Temp\UnityTempFile-c511408e24f69564d94fb35670fe6512
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c6019db7d7d1a1d42a4894536818f723
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c6019db7d7d1a1d42a4894536818f723
+    projectPath: Temp\UnityTempFile-c6019db7d7d1a1d42a4894536818f723
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c7fb323a7e389764aa1d5b13de78e20f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c7fb323a7e389764aa1d5b13de78e20f
+    projectPath: Temp\UnityTempFile-c7fb323a7e389764aa1d5b13de78e20f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c8ef240bc69fee74a8fd0162e367bcbc
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c8ef240bc69fee74a8fd0162e367bcbc
+    projectPath: Temp\UnityTempFile-c8ef240bc69fee74a8fd0162e367bcbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c9074f32577bd5c4596ad82643719e7e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-c9074f32577bd5c4596ad82643719e7e
+    projectPath: Temp\UnityTempFile-c9074f32577bd5c4596ad82643719e7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ca4ce806ec989ca41a051bee143baba5
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ca4ce806ec989ca41a051bee143baba5
+    projectPath: Temp\UnityTempFile-ca4ce806ec989ca41a051bee143baba5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cafb6551baf6f584d8814d4a1cf61d1c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cafb6551baf6f584d8814d4a1cf61d1c
+    projectPath: Temp\UnityTempFile-cafb6551baf6f584d8814d4a1cf61d1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cb60a434f7eec7b4ba79fe3659b94714
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cb60a434f7eec7b4ba79fe3659b94714
+    projectPath: Temp\UnityTempFile-cb60a434f7eec7b4ba79fe3659b94714
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cc05a51b5d338a14ca47a0671d42d65d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cc05a51b5d338a14ca47a0671d42d65d
+    projectPath: Temp\UnityTempFile-cc05a51b5d338a14ca47a0671d42d65d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cc12021cee021d74e81f90dc38831ff3
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cc12021cee021d74e81f90dc38831ff3
+    projectPath: Temp\UnityTempFile-cc12021cee021d74e81f90dc38831ff3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cc5a13818fcc6ea4ba7c2e6b68841963
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cc5a13818fcc6ea4ba7c2e6b68841963
+    projectPath: Temp\UnityTempFile-cc5a13818fcc6ea4ba7c2e6b68841963
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cd69cbf1e2f102a47aa556c322dbd4a8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cd69cbf1e2f102a47aa556c322dbd4a8
+    projectPath: Temp\UnityTempFile-cd69cbf1e2f102a47aa556c322dbd4a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cdeb1ed72a9d6fe46a5606f2b06b0834
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cdeb1ed72a9d6fe46a5606f2b06b0834
+    projectPath: Temp\UnityTempFile-cdeb1ed72a9d6fe46a5606f2b06b0834
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ce1e1902926283f4597ae36fee27249e
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ce1e1902926283f4597ae36fee27249e
+    projectPath: Temp\UnityTempFile-ce1e1902926283f4597ae36fee27249e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cf06ee8cdd2271e4e85ee7488640873f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cf06ee8cdd2271e4e85ee7488640873f
+    projectPath: Temp\UnityTempFile-cf06ee8cdd2271e4e85ee7488640873f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cf4c2061e5009034ca1dacd1528c6651
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cf4c2061e5009034ca1dacd1528c6651
+    projectPath: Temp\UnityTempFile-cf4c2061e5009034ca1dacd1528c6651
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cf7d6625dee0ebe40979da74446777b1
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cf7d6625dee0ebe40979da74446777b1
+    projectPath: Temp\UnityTempFile-cf7d6625dee0ebe40979da74446777b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cffa53bcddf477f46b22e3487b577d95
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-cffa53bcddf477f46b22e3487b577d95
+    projectPath: Temp\UnityTempFile-cffa53bcddf477f46b22e3487b577d95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d11c87ba93b56b64d81e4df4db942e3a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d11c87ba93b56b64d81e4df4db942e3a
+    projectPath: Temp\UnityTempFile-d11c87ba93b56b64d81e4df4db942e3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d213731b923653543aa14f42f0305694
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d213731b923653543aa14f42f0305694
+    projectPath: Temp\UnityTempFile-d213731b923653543aa14f42f0305694
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d3c067f7ed9f4ac4baef1f8d8f342df0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d3c067f7ed9f4ac4baef1f8d8f342df0
+    projectPath: Temp\UnityTempFile-d3c067f7ed9f4ac4baef1f8d8f342df0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d41f55b83ca5b6040936808115e61cd5
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d41f55b83ca5b6040936808115e61cd5
+    projectPath: Temp\UnityTempFile-d41f55b83ca5b6040936808115e61cd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d49f5ba2ad912b04486aaa58127b357d
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d49f5ba2ad912b04486aaa58127b357d
+    projectPath: Temp\UnityTempFile-d49f5ba2ad912b04486aaa58127b357d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d5c1eadc47e25d64aada58b43ce6097f
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d5c1eadc47e25d64aada58b43ce6097f
+    projectPath: Temp\UnityTempFile-d5c1eadc47e25d64aada58b43ce6097f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d613cf150dd427849bf572d33d1714d2
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d613cf150dd427849bf572d33d1714d2
+    projectPath: Temp\UnityTempFile-d613cf150dd427849bf572d33d1714d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d618a753cd3cc804f92403bbe43965aa
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d618a753cd3cc804f92403bbe43965aa
+    projectPath: Temp\UnityTempFile-d618a753cd3cc804f92403bbe43965aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d693a408c47453643bd6167687496845
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d693a408c47453643bd6167687496845
+    projectPath: Temp\UnityTempFile-d693a408c47453643bd6167687496845
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d72a7fa04e96eb34598c6531c6329933
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d72a7fa04e96eb34598c6531c6329933
+    projectPath: Temp\UnityTempFile-d72a7fa04e96eb34598c6531c6329933
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d7b673f44604a7c4d93c0e54453d32fd
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d7b673f44604a7c4d93c0e54453d32fd
+    projectPath: Temp\UnityTempFile-d7b673f44604a7c4d93c0e54453d32fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d8989290e3852614fa818c221af38f2b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d8989290e3852614fa818c221af38f2b
+    projectPath: Temp\UnityTempFile-d8989290e3852614fa818c221af38f2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d99365d66bbb2fd4499cb08ebe1bcff1
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-d99365d66bbb2fd4499cb08ebe1bcff1
+    projectPath: Temp\UnityTempFile-d99365d66bbb2fd4499cb08ebe1bcff1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-db0f7268bd6e09f4388c210fa9ba0239
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-db0f7268bd6e09f4388c210fa9ba0239
+    projectPath: Temp\UnityTempFile-db0f7268bd6e09f4388c210fa9ba0239
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dbc1942784f8fc446b09fd8da8ad4b24
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-dbc1942784f8fc446b09fd8da8ad4b24
+    projectPath: Temp\UnityTempFile-dbc1942784f8fc446b09fd8da8ad4b24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dc9ecfe9ffdbf564e8bffde8f299d1a0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-dc9ecfe9ffdbf564e8bffde8f299d1a0
+    projectPath: Temp\UnityTempFile-dc9ecfe9ffdbf564e8bffde8f299d1a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ddc9c665a94b4434085e8dda23889d46
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ddc9c665a94b4434085e8dda23889d46
+    projectPath: Temp\UnityTempFile-ddc9c665a94b4434085e8dda23889d46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ddcc78e2aa9d45c498f8018f42b7a3f8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ddcc78e2aa9d45c498f8018f42b7a3f8
+    projectPath: Temp\UnityTempFile-ddcc78e2aa9d45c498f8018f42b7a3f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-def72b3ddce9c0942b955b16550d2aa0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-def72b3ddce9c0942b955b16550d2aa0
+    projectPath: Temp\UnityTempFile-def72b3ddce9c0942b955b16550d2aa0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-df7d2f8327713df43b5a6f4094b4d10b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-df7d2f8327713df43b5a6f4094b4d10b
+    projectPath: Temp\UnityTempFile-df7d2f8327713df43b5a6f4094b4d10b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dfce977b9fe99e44fa84e2a52fc1c73a
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-dfce977b9fe99e44fa84e2a52fc1c73a
+    projectPath: Temp\UnityTempFile-dfce977b9fe99e44fa84e2a52fc1c73a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e0ebcf531b69af649b004b9a03ef487c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e0ebcf531b69af649b004b9a03ef487c
+    projectPath: Temp\UnityTempFile-e0ebcf531b69af649b004b9a03ef487c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e1b05108cc4ef45429f6c86a1226f5f6
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e1b05108cc4ef45429f6c86a1226f5f6
+    projectPath: Temp\UnityTempFile-e1b05108cc4ef45429f6c86a1226f5f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e3e69f95c54a5f044a0673c8d2211fbb
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e3e69f95c54a5f044a0673c8d2211fbb
+    projectPath: Temp\UnityTempFile-e3e69f95c54a5f044a0673c8d2211fbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e3f7f050f362db4489aedf4c2c586fd0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e3f7f050f362db4489aedf4c2c586fd0
+    projectPath: Temp\UnityTempFile-e3f7f050f362db4489aedf4c2c586fd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e458b7e82b751a3438aab2f2dcffdcdf
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e458b7e82b751a3438aab2f2dcffdcdf
+    projectPath: Temp\UnityTempFile-e458b7e82b751a3438aab2f2dcffdcdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e5088949e18b2c843b9652f22ae237a8
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e5088949e18b2c843b9652f22ae237a8
+    projectPath: Temp\UnityTempFile-e5088949e18b2c843b9652f22ae237a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e56fe643f256b424cb7f16b74b078757
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e56fe643f256b424cb7f16b74b078757
+    projectPath: Temp\UnityTempFile-e56fe643f256b424cb7f16b74b078757
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e8273f61d7ea6824f939140df90738d0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-e8273f61d7ea6824f939140df90738d0
+    projectPath: Temp\UnityTempFile-e8273f61d7ea6824f939140df90738d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ea2051f0d8bfff14eb03e18b5897d6da
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ea2051f0d8bfff14eb03e18b5897d6da
+    projectPath: Temp\UnityTempFile-ea2051f0d8bfff14eb03e18b5897d6da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ea4039aaa57b928479fdec8b88d02f8c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ea4039aaa57b928479fdec8b88d02f8c
+    projectPath: Temp\UnityTempFile-ea4039aaa57b928479fdec8b88d02f8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ecbe0802d767d39409db29b66d4cac33
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ecbe0802d767d39409db29b66d4cac33
+    projectPath: Temp\UnityTempFile-ecbe0802d767d39409db29b66d4cac33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ecf274ec35c53c34fb871c2933522ddb
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ecf274ec35c53c34fb871c2933522ddb
+    projectPath: Temp\UnityTempFile-ecf274ec35c53c34fb871c2933522ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-edbbfe35bdbb37848bc3aa1c5977251b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-edbbfe35bdbb37848bc3aa1c5977251b
+    projectPath: Temp\UnityTempFile-edbbfe35bdbb37848bc3aa1c5977251b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ee0baaf7968b15843b654a4147bc597b
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ee0baaf7968b15843b654a4147bc597b
+    projectPath: Temp\UnityTempFile-ee0baaf7968b15843b654a4147bc597b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ee8f546bc2b25094fa7beba181fc2dc2
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ee8f546bc2b25094fa7beba181fc2dc2
+    projectPath: Temp\UnityTempFile-ee8f546bc2b25094fa7beba181fc2dc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ef9405627f68d9943bafafeb673058d0
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ef9405627f68d9943bafafeb673058d0
+    projectPath: Temp\UnityTempFile-ef9405627f68d9943bafafeb673058d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f03e32489a71efc4aa7ae95777cc2ba4
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f03e32489a71efc4aa7ae95777cc2ba4
+    projectPath: Temp\UnityTempFile-f03e32489a71efc4aa7ae95777cc2ba4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f157aee0e2ddfe5428e2b674a41d5eec
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f157aee0e2ddfe5428e2b674a41d5eec
+    projectPath: Temp\UnityTempFile-f157aee0e2ddfe5428e2b674a41d5eec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f2afca9bbac620d4f8f30a894413fedc
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f2afca9bbac620d4f8f30a894413fedc
+    projectPath: Temp\UnityTempFile-f2afca9bbac620d4f8f30a894413fedc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f2d3b40b783a71248bcc076a90ca5340
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f2d3b40b783a71248bcc076a90ca5340
+    projectPath: Temp\UnityTempFile-f2d3b40b783a71248bcc076a90ca5340
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f5f099af82872844bb51f170de843499
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f5f099af82872844bb51f170de843499
+    projectPath: Temp\UnityTempFile-f5f099af82872844bb51f170de843499
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f70443d5b1732c949bac9e3410fe256c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f70443d5b1732c949bac9e3410fe256c
+    projectPath: Temp\UnityTempFile-f70443d5b1732c949bac9e3410fe256c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f779ca608d1d49142abd32de25cff1ca
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f779ca608d1d49142abd32de25cff1ca
+    projectPath: Temp\UnityTempFile-f779ca608d1d49142abd32de25cff1ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f88cebecb6a96484ba8981306d48817c
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f88cebecb6a96484ba8981306d48817c
+    projectPath: Temp\UnityTempFile-f88cebecb6a96484ba8981306d48817c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f951e06a02ab85f428b44322a21af669
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f951e06a02ab85f428b44322a21af669
+    projectPath: Temp\UnityTempFile-f951e06a02ab85f428b44322a21af669
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f9e9760eee0b80c408bfaa28c2e07efd
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-f9e9760eee0b80c408bfaa28c2e07efd
+    projectPath: Temp\UnityTempFile-f9e9760eee0b80c408bfaa28c2e07efd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fad057262dc0f0e4c9e8bd5519074b50
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-fad057262dc0f0e4c9e8bd5519074b50
+    projectPath: Temp\UnityTempFile-fad057262dc0f0e4c9e8bd5519074b50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fbc65e8f8189e6a459ac85af1b60de51
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-fbc65e8f8189e6a459ac85af1b60de51
+    projectPath: Temp\UnityTempFile-fbc65e8f8189e6a459ac85af1b60de51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ff1b40c9125ddbf4aa99536d6dab4b84
+    fullPath: D:\EVHI\v-lo\Temp\UnityTempFile-ff1b40c9125ddbf4aa99536d6dab4b84
+    projectPath: Temp\UnityTempFile-ff1b40c9125ddbf4aa99536d6dab4b84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

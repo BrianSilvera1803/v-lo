@@ -163,7 +163,6 @@
     <Compile Include="Assets\Sun_Temple\Scripts\FPSController\CursorLock.cs" />
     <Compile Include="Assets\Sun_Temple\Scripts\MoveToLayer.cs" />
     <Compile Include="Assets\Sun_Temple\Scripts\WindSwaySimple.cs" />
-    <Compile Include="Assets\test.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples _ Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples _ Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples _ Extras\Scripts\Benchmark02.cs" />
