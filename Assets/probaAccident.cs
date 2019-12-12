@@ -15,6 +15,8 @@ public class probaAccident : MonoBehaviour
     public static int maxbpm = 220; // Pour le division du bpm
     public static Dictionary<string, float> convert = new Dictionary<string, float>();
 
+    public static GameObject start = null;
+
     void Start()
     {
         convert.Add("Homme", 0.7f);

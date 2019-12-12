@@ -167,11 +167,8 @@ public class Dijkstra : MonoBehaviour
         {
             probaAccident.nb_course = probaAccident.nb_course + 1.0f;
 
-            foreach (Transform child in goal.transform)
-            {
-                if(child.gameObject.activeSelf)
-                    probaAccident.distance = probaAccident.distance + distance[child.gameObject];
-            }
+            if(probaAccident.start != null)
+                probaAccident.distance = probaAccident.distance + distance[probaAccident.start];
 
             /**
              * probaAccident.nb_regard = probaAccident.nb_regard + A definir;
@@ -189,6 +186,7 @@ public class Dijkstra : MonoBehaviour
             }
 
             goal_list.Remove(gameObject);
+            probaAccident.start = gameObject;
 
             float prob = probaAccident.calculProba();
 
