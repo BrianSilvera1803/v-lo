@@ -13,42 +13,614 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-15T17:31:40.374+01:00
-  initializedAtString: 2019-12-15T15:45:32.446+01:00
+  lastUpdatedAtString: 2020-01-09T12:13:51.602+01:00
+  initializedAtString: 2020-01-09T11:27:20.305+01:00
   entries:
+  - path: .gitignore
+    fullPath: C:\Users\brian\v-lo\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\brian\v-lo\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\brian\v-lo\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
+  - path: Assets\BITalino.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino.meta
+    projectPath: Assets\BITalino.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\brian\v-lo\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts.meta
+    projectPath: Assets\BITalino\BITalinoScripts.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\_TerrainAutoUpgrade\layer_ground02ddfc8d7f3483abd.terrainlayer
-    fullPath: C:\Users\brian\v-lo\Assets\_TerrainAutoUpgrade\layer_ground02ddfc8d7f3483abd.terrainlayer
-    projectPath: Assets\_TerrainAutoUpgrade\layer_ground02ddfc8d7f3483abd.terrainlayer
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\NatureStarterKit2\Nature\tree04.prefab
-    fullPath: C:\Users\brian\v-lo\Assets\NatureStarterKit2\Nature\tree04.prefab
-    projectPath: Assets\NatureStarterKit2\Nature\tree04.prefab
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSerialPort.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSerialPort.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSerialPort.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Route 2.terrainlayer
-    fullPath: C:\Users\brian\v-lo\Assets\Route 2.terrainlayer
-    projectPath: Assets\Route 2.terrainlayer
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSerialPort.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSerialPort.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSerialPort.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSocket.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSocket.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSocket.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSocket.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSocket.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSocket.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoDevice.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoDevice.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoDevice.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoDevice.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoDevice.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoDevice.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoErrorTypes.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoErrorTypes.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoErrorTypes.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoErrorTypes.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoErrorTypes.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoErrorTypes.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoException.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoException.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoException.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoException.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoException.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoException.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrame.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrame.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrame.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrame.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrame.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrame.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrameDecoder.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrameDecoder.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrameDecoder.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrameDecoder.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrameDecoder.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrameDecoder.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\IBITalinoCommunication.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\IBITalinoCommunication.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\IBITalinoCommunication.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\IBITalinoCommunication.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\IBITalinoCommunication.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\IBITalinoCommunication.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoReader.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoReader.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoReader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoReader.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoReader.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoReader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoSerialPort.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoSerialPort.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoSerialPort.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoSerialPort.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoSerialPort.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoSerialPort.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\GUIBitalino.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\GUIBitalino.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\GUIBitalino.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\GUIBitalino.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\GUIBitalino.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\GUIBitalino.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\ManagerBITalino.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\ManagerBITalino.cs
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\ManagerBITalino.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\BITalino Unity\ManagerBITalino.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\BITalino Unity\ManagerBITalino.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\BITalino Unity\ManagerBITalino.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\Utils.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\Utils.meta
+    projectPath: Assets\BITalino\BITalinoScripts\Utils.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\Utils\CSV_Parser.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\Utils\CSV_Parser.cs
+    projectPath: Assets\BITalino\BITalinoScripts\Utils\CSV_Parser.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\Utils\CSV_Parser.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\Utils\CSV_Parser.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\Utils\CSV_Parser.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\Utils\SensorDataConvertor.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\Utils\SensorDataConvertor.cs
+    projectPath: Assets\BITalino\BITalinoScripts\Utils\SensorDataConvertor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\BITalinoScripts\Utils\SensorDataConvertor.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\BITalinoScripts\Utils\SensorDataConvertor.cs.meta
+    projectPath: Assets\BITalino\BITalinoScripts\Utils\SensorDataConvertor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes.meta
+    projectPath: Assets\BITalino\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Demo.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Demo.meta
+    projectPath: Assets\BITalino\Scenes\Demo.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Demo\Demo.unity
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Demo\Demo.unity
+    projectPath: Assets\BITalino\Scenes\Demo\Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Demo\Demo.unity.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Demo\Demo.unity.meta
+    projectPath: Assets\BITalino\Scenes\Demo\Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Demo\Scripts.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Demo\Scripts.meta
+    projectPath: Assets\BITalino\Scenes\Demo\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Demo\Scripts\ConnectionState.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Demo\Scripts\ConnectionState.cs
+    projectPath: Assets\BITalino\Scenes\Demo\Scripts\ConnectionState.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Demo\Scripts\ConnectionState.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Demo\Scripts\ConnectionState.cs.meta
+    projectPath: Assets\BITalino\Scenes\Demo\Scripts\ConnectionState.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs.meta
+    projectPath: Assets\BITalino\Scenes\Graphs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Graphes.unity
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Graphes.unity
+    projectPath: Assets\BITalino\Scenes\Graphs\Graphes.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Graphes.unity.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Graphes.unity.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Graphes.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Blue.mat
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Blue.mat
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Blue.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Blue.mat.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Blue.mat.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Blue.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Green.mat
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Green.mat
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Green.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Green.mat.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Green.mat.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Green.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Orange.mat
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Orange.mat
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Orange.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Orange.mat.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Orange.mat.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Orange.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Red.mat
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Red.mat
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Red.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Red.mat.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Red.mat.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Red.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Yellow.mat
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Yellow.mat
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Yellow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Materials\Yellow.mat.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Materials\Yellow.mat.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Materials\Yellow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Scripts.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Scripts.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Scripts\GUI_Selector.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Scripts\GUI_Selector.cs
+    projectPath: Assets\BITalino\Scenes\Graphs\Scripts\GUI_Selector.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Scripts\GUI_Selector.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Scripts\GUI_Selector.cs.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Scripts\GUI_Selector.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Scripts\Line.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Scripts\Line.cs
+    projectPath: Assets\BITalino\Scenes\Graphs\Scripts\Line.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Scripts\Line.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Scripts\Line.cs.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Scripts\Line.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Scripts\Timer.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Scripts\Timer.cs
+    projectPath: Assets\BITalino\Scenes\Graphs\Scripts\Timer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\Graphs\Scripts\Timer.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\Graphs\Scripts\Timer.cs.meta
+    projectPath: Assets\BITalino\Scenes\Graphs\Scripts\Timer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Prefab.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Prefab.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Prefab\Obstacle.prefab
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Prefab\Obstacle.prefab
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Prefab\Obstacle.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Prefab\Obstacle.prefab.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Prefab\Obstacle.prefab.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Prefab\Obstacle.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Scripts.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Scripts.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Scripts\Helicopter.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Scripts\Helicopter.cs
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Scripts\Helicopter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Scripts\Helicopter.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Scripts\Helicopter.cs.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Scripts\Helicopter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Scripts\Missile.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Scripts\Missile.cs
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Scripts\Missile.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Scripts\Missile.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Scripts\Missile.cs.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Scripts\Missile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Scripts\MissileManager.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Scripts\MissileManager.cs
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Scripts\MissileManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Scripts\MissileManager.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Scripts\MissileManager.cs.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Scripts\MissileManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\DawnDusk Skybox.mat
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\DawnDusk
+      Skybox.mat
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\DawnDusk Skybox.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\DawnDusk Skybox.mat.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\DawnDusk
+      Skybox.mat.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\DawnDusk Skybox.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Sprite.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Sprite.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Sprite.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Sprite\helicopter.gif
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Sprite\helicopter.gif
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Sprite\helicopter.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Sprite\helicopter.gif.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Sprite\helicopter.gif.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Sprite\helicopter.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Sprite\Missile.png
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Sprite\Missile.png
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Sprite\Missile.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\Sprite\Missile.png.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\Sprite\Missile.png.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\Sprite\Missile.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\SuperCopter.unity
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\SuperCopter.unity
+    projectPath: Assets\BITalino\Scenes\SuperCopter\SuperCopter.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BITalino\Scenes\SuperCopter\SuperCopter.unity.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BITalino\Scenes\SuperCopter\SuperCopter.unity.meta
+    projectPath: Assets\BITalino\Scenes\SuperCopter\SuperCopter.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BpmUpdate.cs
+    fullPath: C:\Users\brian\v-lo\Assets\BpmUpdate.cs
+    projectPath: Assets\BpmUpdate.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\BpmUpdate.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\BpmUpdate.cs.meta
+    projectPath: Assets\BpmUpdate.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\probaAccident.cs
+    fullPath: C:\Users\brian\v-lo\Assets\probaAccident.cs
+    projectPath: Assets\probaAccident.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,12 +630,126 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Sun_Temple\PostProcessing\Culling.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling.meta
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\CullDistances.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\CullDistances.cs
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\CullDistances.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\CullDistances.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\CullDistances.cs.meta
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\CullDistances.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\CullDistanceVolume.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\CullDistanceVolume.cs
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\CullDistanceVolume.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\CullDistanceVolume.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\CullDistanceVolume.cs.meta
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\CullDistanceVolume.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\DistanceHide.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\DistanceHide.cs
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\DistanceHide.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\DistanceHide.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\DistanceHide.cs.meta
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\DistanceHide.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\TriggerArea.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\TriggerArea.cs
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\TriggerArea.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\PostProcessing\Culling\TriggerArea.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\PostProcessing\Culling\TriggerArea.cs.meta
+    projectPath: Assets\Sun_Temple\PostProcessing\Culling\TriggerArea.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sun_Temple\Scripts\Culling.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling.meta
+    projectPath: Assets\Sun_Temple\Scripts\Culling.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\CullDistances.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\CullDistances.cs
+    projectPath: Assets\Sun_Temple\Scripts\Culling\CullDistances.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\CullDistances.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\CullDistances.cs.meta
+    projectPath: Assets\Sun_Temple\Scripts\Culling\CullDistances.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\CullDistanceVolume.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\CullDistanceVolume.cs
+    projectPath: Assets\Sun_Temple\Scripts\Culling\CullDistanceVolume.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\CullDistanceVolume.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\CullDistanceVolume.cs.meta
+    projectPath: Assets\Sun_Temple\Scripts\Culling\CullDistanceVolume.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\DistanceHide.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\DistanceHide.cs
+    projectPath: Assets\Sun_Temple\Scripts\Culling\DistanceHide.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\DistanceHide.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\DistanceHide.cs.meta
+    projectPath: Assets\Sun_Temple\Scripts\Culling\DistanceHide.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\TriggerArea.cs
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\TriggerArea.cs
+    projectPath: Assets\Sun_Temple\Scripts\Culling\TriggerArea.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sun_Temple\Scripts\Culling\TriggerArea.cs.meta
+    fullPath: C:\Users\brian\v-lo\Assets\Sun_Temple\Scripts\Culling\TriggerArea.cs.meta
+    projectPath: Assets\Sun_Temple\Scripts\Culling\TriggerArea.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Terrain\Terrain_0_0_542dfb6c-2664-47c8-813a-2e0cc6449681.asset
     fullPath: C:\Users\brian\v-lo\Assets\Terrain\Terrain_0_0_542dfb6c-2664-47c8-813a-2e0cc6449681.asset
     projectPath: Assets\Terrain\Terrain_0_0_542dfb6c-2664-47c8-813a-2e0cc6449681.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Documentation Unity BITalino SDK.pdf
+    fullPath: C:\Users\brian\v-lo\Documentation Unity BITalino SDK.pdf
+    projectPath: Documentation Unity BITalino SDK.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\APIUpdater\project-dependencies.graph
     fullPath: C:\Users\brian\v-lo\Library\APIUpdater\project-dependencies.graph
     projectPath: Library\APIUpdater\project-dependencies.graph
@@ -88,12 +774,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\brian\v-lo\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\brian\v-lo\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -136,45 +816,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    fullPath: C:\Users\brian\v-lo\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+  - path: Library\metadata\06\0612c2a6ae163434f8ac42d1d2be7b27
+    fullPath: C:\Users\brian\v-lo\Library\metadata\06\0612c2a6ae163434f8ac42d1d2be7b27
+    projectPath: Library\metadata\06\0612c2a6ae163434f8ac42d1d2be7b27
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\5e\5e97b2c7174681144a3959a475827fb9.info
-    fullPath: C:\Users\brian\v-lo\Library\metadata\5e\5e97b2c7174681144a3959a475827fb9.info
-    projectPath: Library\metadata\5e\5e97b2c7174681144a3959a475827fb9.info
+  - path: Library\metadata\26\2631bffdb408b904f9fc9ed7cc210ff5
+    fullPath: C:\Users\brian\v-lo\Library\metadata\26\2631bffdb408b904f9fc9ed7cc210ff5
+    projectPath: Library\metadata\26\2631bffdb408b904f9fc9ed7cc210ff5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\73\732e9a12f8384c14d810aa14a1b64121.info
-    fullPath: C:\Users\brian\v-lo\Library\metadata\73\732e9a12f8384c14d810aa14a1b64121.info
-    projectPath: Library\metadata\73\732e9a12f8384c14d810aa14a1b64121.info
+  - path: Library\metadata\30\3074306b16f55c848ac93760dd8bd672
+    fullPath: C:\Users\brian\v-lo\Library\metadata\30\3074306b16f55c848ac93760dd8bd672
+    projectPath: Library\metadata\30\3074306b16f55c848ac93760dd8bd672
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\aa\aae542b8a65f39b49b008fa689ce9804
-    fullPath: C:\Users\brian\v-lo\Library\metadata\aa\aae542b8a65f39b49b008fa689ce9804
-    projectPath: Library\metadata\aa\aae542b8a65f39b49b008fa689ce9804
+  - path: Library\metadata\3c\3c35eada6229c8040bb901d2696b907a
+    fullPath: C:\Users\brian\v-lo\Library\metadata\3c\3c35eada6229c8040bb901d2696b907a
+    projectPath: Library\metadata\3c\3c35eada6229c8040bb901d2696b907a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\aa\aae542b8a65f39b49b008fa689ce9804.info
-    fullPath: C:\Users\brian\v-lo\Library\metadata\aa\aae542b8a65f39b49b008fa689ce9804.info
-    projectPath: Library\metadata\aa\aae542b8a65f39b49b008fa689ce9804.info
+  - path: Library\metadata\94\94ec91dd671a53f44aae0605e0fe5570
+    fullPath: C:\Users\brian\v-lo\Library\metadata\94\94ec91dd671a53f44aae0605e0fe5570
+    projectPath: Library\metadata\94\94ec91dd671a53f44aae0605e0fe5570
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\d2\d206d7fa3dfd86c43a8823db554bbb62.info
-    fullPath: C:\Users\brian\v-lo\Library\metadata\d2\d206d7fa3dfd86c43a8823db554bbb62.info
-    projectPath: Library\metadata\d2\d206d7fa3dfd86c43a8823db554bbb62.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\d2\d279c2e2a8e939140802f63fce379a82.info
-    fullPath: C:\Users\brian\v-lo\Library\metadata\d2\d279c2e2a8e939140802f63fce379a82.info
-    projectPath: Library\metadata\d2\d279c2e2a8e939140802f63fce379a82.info
+  - path: Library\metadata\ca\ca503e53c8cf42e45a030ac4f5df7aa5
+    fullPath: C:\Users\brian\v-lo\Library\metadata\ca\ca503e53c8cf42e45a030ac4f5df7aa5
+    projectPath: Library\metadata\ca\ca503e53c8cf42e45a030ac4f5df7aa5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -202,21 +876,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -226,21 +888,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -256,18 +906,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TerrainTools.Editor.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.TerrainTools.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TerrainTools.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TerrainTools.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.TerrainTools.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TerrainTools.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
@@ -277,18 +915,6 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -304,27 +930,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -334,21 +942,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
     fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -358,21 +954,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
     fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\brian\v-lo\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -388,21 +972,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\8b5a85-mainStage.json
-    fullPath: C:\Users\brian\v-lo\Library\StateCache\Hierarchy\8b5a85-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\8b5a85-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\Hierarchy\8eb1ae-mainStage.json
-    fullPath: C:\Users\brian\v-lo\Library\StateCache\Hierarchy\8eb1ae-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\8eb1ae-mainStage.json
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\brian\v-lo\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\52956e-mainStage.json
-    fullPath: C:\Users\brian\v-lo\Library\StateCache\SceneView\52956e-mainStage.json
-    projectPath: Library\StateCache\SceneView\52956e-mainStage.json
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\brian\v-lo\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\brian\v-lo\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\brian\v-lo\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\brian\v-lo\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\brian\v-lo\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\brian\v-lo\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\8b5a85-mainStage.json
+    fullPath: C:\Users\brian\v-lo\Library\StateCache\Hierarchy\8b5a85-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\8b5a85-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -410,23 +1024,95 @@ MonoBehaviour:
     fullPath: C:\Users\brian\v-lo\Library\StateCache\SceneView\570185-mainStage.json
     projectPath: Library\StateCache\SceneView\570185-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\brian\v-lo\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityLockfile
-    fullPath: C:\Users\brian\v-lo\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: v-lo.sln
-    fullPath: C:\Users\brian\v-lo\v-lo.sln
-    projectPath: v-lo.sln
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\NavMeshLayers.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\NavMeshLayers.asset
+    projectPath: ProjectSettings\NavMeshLayers.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\brian\v-lo\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: READ ME.txt
+    fullPath: C:\Users\brian\v-lo\READ ME.txt
+    projectPath: READ ME.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: README.md
+    fullPath: C:\Users\brian\v-lo\README.md
+    projectPath: README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

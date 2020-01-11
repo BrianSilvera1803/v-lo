@@ -55,6 +55,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSerialPort.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoCommunicationSocket.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoDevice.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoErrorTypes.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoException.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrame.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\BITalinoFrameDecoder.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino CSharpSDK\IBITalinoCommunication.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoReader.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino Unity\BITalinoSerialPort.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino Unity\GUIBitalino.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\BITalino Unity\ManagerBITalino.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\Utils\CSV_Parser.cs" />
+     <Compile Include="Assets\BITalino\BITalinoScripts\Utils\SensorDataConvertor.cs" />
+     <Compile Include="Assets\BITalino\Scenes\Demo\Scripts\ConnectionState.cs" />
+     <Compile Include="Assets\BITalino\Scenes\Graphs\Scripts\GUI_Selector.cs" />
+     <Compile Include="Assets\BITalino\Scenes\Graphs\Scripts\Line.cs" />
+     <Compile Include="Assets\BITalino\Scenes\Graphs\Scripts\Timer.cs" />
+     <Compile Include="Assets\BITalino\Scenes\SuperCopter\Scripts\Helicopter.cs" />
+     <Compile Include="Assets\BITalino\Scenes\SuperCopter\Scripts\Missile.cs" />
+     <Compile Include="Assets\BITalino\Scenes\SuperCopter\Scripts\MissileManager.cs" />
+     <Compile Include="Assets\BpmUpdate.cs" />
      <Compile Include="Assets\Dijkstra.cs" />
      <Compile Include="Assets\mouvementMoto.cs" />
      <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
@@ -96,6 +118,10 @@
      <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\probaAccident.cs" />
+     <Compile Include="Assets\Sun_Temple\PostProcessing\Culling\CullDistances.cs" />
+     <Compile Include="Assets\Sun_Temple\PostProcessing\Culling\CullDistanceVolume.cs" />
+     <Compile Include="Assets\Sun_Temple\PostProcessing\Culling\DistanceHide.cs" />
+     <Compile Include="Assets\Sun_Temple\PostProcessing\Culling\TriggerArea.cs" />
      <Compile Include="Assets\Sun_Temple\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\Sun_Temple\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\Sun_Temple\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -141,10 +167,6 @@
      <Compile Include="Assets\Sun_Temple\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
      <Compile Include="Assets\Sun_Temple\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
      <Compile Include="Assets\Sun_Temple\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-     <Compile Include="Assets\Sun_Temple\Scripts\Culling\CullDistances.cs" />
-     <Compile Include="Assets\Sun_Temple\Scripts\Culling\CullDistanceVolume.cs" />
-     <Compile Include="Assets\Sun_Temple\Scripts\Culling\DistanceHide.cs" />
-     <Compile Include="Assets\Sun_Temple\Scripts\Culling\TriggerArea.cs" />
      <Compile Include="Assets\Sun_Temple\Scripts\DisableRenderer.cs" />
      <Compile Include="Assets\Sun_Temple\Scripts\Doors\CircularLerp.cs" />
      <Compile Include="Assets\Sun_Temple\Scripts\Doors\CursorManager.cs" />

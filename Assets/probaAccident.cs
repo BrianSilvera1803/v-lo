@@ -11,7 +11,7 @@ public class probaAccident : MonoBehaviour
     public static float nb_course = 0;
     public static float distance = 0;
     public static float nb_regard = 10;
-    public static float bpm = 109; // bpm de Sven sur 8km a vélo a plat
+    public static List<double> bpm = new List<double>(); // bpm de Sven sur 8km a vélo a plat
     public static int maxbpm = 220; // Pour le division du bpm
     public static Dictionary<string, float> convert = new Dictionary<string, float>();
 
@@ -93,8 +93,8 @@ public class probaAccident : MonoBehaviour
         value.Add("nbRegard", nb_regard/20);
         coeff.Add("nbRegard", 0.06f);
         
-        value.Add("bpm",bpm/220 - int.Parse(age.text));
-        coeff.Add("bpm", 0.11f);
+        //value.Add("bpm",bpm/220 - int.Parse(age.text));
+        //coeff.Add("bpm", 0.11f);
     }
 
     public static float calculProba()
@@ -102,7 +102,7 @@ public class probaAccident : MonoBehaviour
         value["nbCourse"] = nb_course/15;
         value["dist"] = distance/40000;
         value["nbRegard"] = nb_regard/20;
-        value["bpm"] = bpm/maxbpm;
+        //value["bpm"] = bpm/maxbpm;
         
         float res = 0.0f;
         foreach (string key in value.Keys)
