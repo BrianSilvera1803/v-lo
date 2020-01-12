@@ -11,8 +11,8 @@ public class probaAccident : MonoBehaviour
     public static float nb_course = 0;
     public static float distance = 0;
     public static float nb_regard = 10;
-    public static List<double> bpm = new List<double>(); // bpm de Sven sur 8km a vélo a plat
-    public static int maxbpm = 220; // Pour le division du bpm
+    public static List<int> bpm = new List<int>();
+    public static int bpmMAX = 0;
     public static Dictionary<string, float> convert = new Dictionary<string, float>();
 
     public static GameObject start = null;
@@ -50,12 +50,22 @@ public class probaAccident : MonoBehaviour
         return toggleEnum.Current;
     }
 
+    public static int mean(List<int> list)
+    {
+        if (list.Count <= 0)
+            return 60;
+            int total = 0;
+        foreach(int i in list){
+            total += i;
+        }
+        return (total / list.Count);
+    }
+
     public static void initInfo(ToggleGroup sexe, InputField age, Dropdown fp, Dropdown corp, ToggleGroup mc, Dropdown gravite_mc, ToggleGroup medoc, Dropdown gravite_medoc)
     {
         value.Add("Sexe",convert[currentToggle(sexe).name]);
         coeff.Add("Sexe",0.02f);
 
-        maxbpm = maxbpm - int.Parse(age.text);
         if (int.Parse(age.text) >= 0 && int.Parse(age.text) <= 18)
             value.Add("Age",convert["0-18"]);
         else if (int.Parse(age.text) >= 18 && int.Parse(age.text) <= 35)
@@ -92,9 +102,10 @@ public class probaAccident : MonoBehaviour
 
         value.Add("nbRegard", nb_regard/20);
         coeff.Add("nbRegard", 0.06f);
-        
-        //value.Add("bpm",bpm/220 - int.Parse(age.text));
-        //coeff.Add("bpm", 0.11f);
+
+        bpmMAX = 220 - int.Parse(age.text);
+        value.Add("bpm", 60);
+        coeff.Add("bpm", 0.11f);
     }
 
     public static float calculProba()
@@ -102,8 +113,9 @@ public class probaAccident : MonoBehaviour
         value["nbCourse"] = nb_course/15;
         value["dist"] = distance/40000;
         value["nbRegard"] = nb_regard/20;
-        //value["bpm"] = bpm/maxbpm;
-        
+        value["bpm"] = mean(bpm) / bpmMAX;
+        bpm.Clear();
+
         float res = 0.0f;
         foreach (string key in value.Keys)
         { 

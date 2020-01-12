@@ -20,6 +20,9 @@ public class validerBouton : MonoBehaviour
     public Text display;
 
     public GameObject fiche;
+    public GameObject background;
+    public GameObject clock;
+    public GameObject bpm;
     public GameObject player;
 
     // Start is called before the first frame update
@@ -28,9 +31,32 @@ public class validerBouton : MonoBehaviour
     {
         if (age.text != "") {
             probaAccident.nb_course = float.Parse(nb_course_init.options[nb_course_init.value].text);
-            //probaAccident.nb_course = A Definir;
+            switch (distance_init.value)
+            {
+                case 0:
+                    probaAccident.distance = Random.Range(0,2500);
+                    break;
+                case 1:
+                    probaAccident.distance = Random.Range(2500, 5000);
+                    break;
+                case 2:
+                    probaAccident.distance = Random.Range(5000, 7500);
+                    break;
+                case 3:
+                    probaAccident.distance = Random.Range(7500, 10000);
+                    break;
+                case 4:
+                    probaAccident.distance = 10000;
+                    break;
+            }
+            
+            
+            
             probaAccident.initInfo(sexe, age, fp, corp, mc, gravite_mc, medoc, gravite_medoc);
             fiche.SetActive(false);
+            background.SetActive(false);
+            clock.SetActive(true);
+            bpm.SetActive(true);
             player.AddComponent<mouvementMoto>();
             Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = false;

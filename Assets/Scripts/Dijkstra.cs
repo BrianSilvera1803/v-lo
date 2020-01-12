@@ -168,13 +168,8 @@ public class Dijkstra : MonoBehaviour
             probaAccident.nb_course = probaAccident.nb_course + 1.0f;
 
             if(probaAccident.start != null)
-                probaAccident.distance = probaAccident.distance + distance[probaAccident.start];
+                probaAccident.distance = probaAccident.distance + (distance[probaAccident.start]*10); //Mise à l'échelle
 
-            /**
-             * probaAccident.nb_regard = probaAccident.nb_regard + A definir;
-             * probaAccident.bpm = probaAccident.bpm + A definir;
-             */
-            
             foreach (GameObject child in noeud_list)
             {
                 child.SetActive(false);
@@ -194,7 +189,7 @@ public class Dijkstra : MonoBehaviour
 
             List<GameObject> next = new List<GameObject>();
 
-            if (prob <= 0.4f) // Inventé pour les tests
+            if (prob <= 0.4f)
             {
                 next = nextGoal(110.0f);
             }
