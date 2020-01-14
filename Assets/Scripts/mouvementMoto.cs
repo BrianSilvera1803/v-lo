@@ -4,11 +4,30 @@ using UnityEngine;
 
 public class mouvementMoto : MonoBehaviour
 {
+    /// <summary>
+    /// Vitesse de déplacement normal
+    /// </summary>
     public float moveSpeed = 35f;
+    
+    /// <summary>
+    /// Vitesse de déplacement pendant une accélération
+    /// </summary>
     public float moveSpeedShift = 50f;
+    
+    /// <summary>
+    /// Vitesse de rotation
+    /// </summary>
     public float horizontalSpeed = 2.0f;
 
-    // Update is called once per frame
+    /// <summary>
+    /// Permet de déplacer le vehicule avec les touches:
+    /// Z : avant
+    /// S : arriére
+    /// Q : gauche
+    /// D : droite
+    /// Shift : accélération
+    /// Et on peut appuyer sur échap pour quitter la simulation
+    /// </summary>
     void Update()
     {
         if (Input.GetKey(KeyCode.Z))

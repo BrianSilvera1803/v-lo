@@ -5,8 +5,14 @@ using UnityEngine.UI;
 
 public class Dijkstra : MonoBehaviour
 {
+    /// <summary>
+    /// Liste des noeuds
+    /// </summary>
     private List<GameObject> noeud_list = new List<GameObject>();
 
+    /// <summary>
+    /// Structure de tuple pour les paires de noeud lié par un arc
+    /// </summary>
     [System.Serializable]
     public struct Tuple
     {
@@ -19,20 +25,61 @@ public class Dijkstra : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Liste de paire de noeud lié par un arc
+    /// </summary>
     public List<Tuple> t;
+    
+    /// <summary>
+    /// Liste des arcs
+    /// </summary>
     private List<GameObject> way_list = new List<GameObject>();
+    
+    /// <summary>
+    /// Parent de tous les arcs
+    /// </summary>
     public GameObject way;
 
+    /// <summary>
+    /// Liste des 2 noeud et de l'arc lié entre les deux
+    /// </summary>
     public Dictionary<Tuple, GameObject> arc = new Dictionary<Tuple, GameObject>();
+
+    /// <summary>
+    /// Talbeau des distance entre le point de départ et les autres noeuds
+    /// </summary>
     public Dictionary<GameObject, float> distance = new Dictionary<GameObject, float>();
+
+    /// <summary>
+    /// Tableau des prédécesseur de chaque noeuds
+    /// </summary>
     public Dictionary<GameObject, GameObject> predecesseur = new Dictionary<GameObject, GameObject>();
 
+    /// <summary>
+    /// Parent des noeuds qui ne sont pas des noeud d'arrivé
+    /// </summary>
     public GameObject point;
+
+    /// <summary>
+    /// Liste des noeuds d'arrivé
+    /// </summary>
     private List<GameObject> goal_list = new List<GameObject>();
+
+    /// <summary>
+    /// Parent des noeuds d'arrivé
+    /// </summary>
     public GameObject goal;
 
+    /// <summary>
+    /// Affichage du taux d'accident
+    /// </summary>
     public Text display;
 
+    /// <summary>
+    ///  Initialise les sommets autres que sdeb à infini
+    ///  La distance au sommet de départ sdeb est nulle
+    /// </summary>
+    /// <param name="sdeb"></param>
     public void Init(GameObject sdeb)
     {
         foreach (GameObject go in noeud_list)
@@ -45,6 +92,12 @@ public class Dijkstra : MonoBehaviour
         distance[sdeb] = 0;
     }
 
+    /// <summary>
+    /// On recherche un noeud de distance minimale (relié par l'arc de poids le plus faible) de sdeb parmi les noeuds situés hors de P. 
+    /// On choisit un noeud de Q de distance minimale.
+    /// </summary>
+    /// <param name="Q">le complémentaire de P<param>
+    /// <returns></returns>
     public GameObject TrouverMin(List<GameObject> Q)
     {
         float mini = Mathf.Infinity;
@@ -60,6 +113,11 @@ public class Dijkstra : MonoBehaviour
         return sommet;
     }
 
+    /// <summary>
+    /// On met à jour les distances entre sdeb et s2 en se posant la question : vaut-il mieux passer par s1 ou pas ?
+    /// </summary>
+    /// <param name="s1">noeud de passage</param>
+    /// <param name="s2">noeud dont la distance peut être mise à jour</param>
     public void Maj_Distance(GameObject s1, GameObject s2)
     {
         if (arc.ContainsKey(new Tuple(s1,s2)))
@@ -93,6 +151,10 @@ public class Dijkstra : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Lance l'algorithme de Dijsktra : https://fr.wikipedia.org/wiki/Algorithme_de_Dijkstra
+    /// </summary>
+    /// <param name="sdeb">le point de départ</param>
     public void Dijkstra_run(GameObject sdeb)
     {
         Init(sdeb);
@@ -111,6 +173,12 @@ public class Dijkstra : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Cherche le plus court chemin entre sdeb et sfin
+    /// </summary>
+    /// <param name="sdeb">noeud de départ</param>
+    /// <param name="sfin">noeud d'arrivé</param>
+    /// <returns></returns>
     public List<GameObject> PCC(GameObject sdeb,GameObject sfin)
     {
         List<GameObject> chemin = new List<GameObject>();
@@ -123,6 +191,11 @@ public class Dijkstra : MonoBehaviour
         chemin.Add(sdeb);
         return chemin;
     }
+
+    /// <summary>
+    /// Initialise les liste de noeud et d'arc
+    /// Lance l'algorithme de Dijkstra
+    /// </summary>
     void Start()
     {
         foreach(Transform child in goal.transform)
@@ -150,6 +223,11 @@ public class Dijkstra : MonoBehaviour
         Dijkstra_run(gameObject);
     }
 
+    /// <summary>
+    /// Retroune le prochain noeud d'arrivé par rapport au taux d'accident
+    /// </summary>
+    /// <param name="distanceMax">distance maximal entre le point de départ et d'arrivé</param>
+    /// <returns></returns>
     public List<GameObject> nextGoal(float distanceMax)
     {
         List<GameObject> res = new List<GameObject>();
@@ -161,6 +239,12 @@ public class Dijkstra : MonoBehaviour
         return res;
     }
 
+    /// <summary>
+    /// Lorsque le joueur entree dans le gameObject, on met à jour le nombre de course et la distance parcouru
+    /// On calcul le nouveau taux d'accident et on choisit la prochaine mission par rapport à ce taux
+    /// On cherche le plus court chemin entre le gameObject et la prochaine destination, et on l'affiche sur le gps.
+    /// </summary>
+    /// <param name="other">gameObject qui est entrée</param>
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))

@@ -5,10 +5,19 @@ using UnityEngine.UI;
 
 public class Chrono : MonoBehaviour
 {
+    /// <summary>
+    /// Affiche le temps
+    /// </summary>
     public Text chrono;
+    
+    /// <summary>
+    /// Représente le temps de la simulations
+    /// </summary>
     public float chronoTime;
 
-    // Update is called once per frame
+    /// <summary>
+    /// Affiche le temps depuis le lancement de la simulation
+    /// </summary>
     void Update()
     {
         chronoTime += Time.deltaTime;

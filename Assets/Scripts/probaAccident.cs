@@ -5,18 +5,54 @@ using UnityEngine.UI;
 
 public class probaAccident : MonoBehaviour
 {
+    /// <summary>
+    /// Valeur attribué aux facteurs
+    /// </summary>
     public static Dictionary<string,float> value = new Dictionary<string,float>();
+    
+    /// <summary>
+    /// Pourcentage d'importance de chaque facteurs
+    /// </summary>
     public static Dictionary<string,float> coeff = new Dictionary<string,float>();
 
+    /// <summary>
+    /// Le nombre de crouse effectué
+    /// </summary>
     public static float nb_course = 0;
+    
+    /// <summary>
+    /// La distance total parcouru
+    /// </summary>
     public static float distance = 0;
-    public static float nb_regard = 10;
+    
+    /// <summary>
+    /// Le nombre regard sur le gps ou la montre
+    /// </summary>
+    public static float nb_regard = 0;
+
+    /// <summary>
+    /// Liste des bpm sur un échantillon de 10 secondes
+    /// </summary>
     public static List<int> bpm = new List<int>();
+
+    /// <summary>
+    /// Le bpm max calculé par la différence entre la fréquence cardiaque maximale théorique de 220 et l'âge
+    /// </summary>
     public static int bpmMAX = 0;
+    
+    /// <summary>
+    /// Tableau de conversion des facteurs en valeur
+    /// </summary>
     public static Dictionary<string, float> convert = new Dictionary<string, float>();
 
+    /// <summary>
+    /// Point de départ à chaque début de nouvelle mission
+    /// </summary>
     public static GameObject start = null;
 
+    /// <summary>
+    /// Initialise le tableau de conversion
+    /// </summary>
     void Start()
     {
         convert.Add("Homme", 0.7f);
@@ -43,6 +79,11 @@ public class probaAccident : MonoBehaviour
         convert.Add("Medoc_fort", 1.0f);
     }
 
+    /// <summary>
+    /// Récupére le toggle choisi dans un ToggleGroup
+    /// </summary>
+    /// <param name="tg">un ToggleGroup</param>
+    /// <returns>le toggle choisi</returns>
     public static Toggle currentToggle(ToggleGroup tg)
     {
         IEnumerator<Toggle> toggleEnum = tg.ActiveToggles().GetEnumerator();
@@ -50,6 +91,11 @@ public class probaAccident : MonoBehaviour
         return toggleEnum.Current;
     }
 
+    /// <summary>
+    /// Fait la moyenne de la liste
+    /// </summary>
+    /// <param name="list">liste de valeur pour obtenir une moyenne</param>
+    /// <returns>moyenne de la liste</returns>
     public static int mean(List<int> list)
     {
         if (list.Count <= 0)
@@ -61,6 +107,17 @@ public class probaAccident : MonoBehaviour
         return (total / list.Count);
     }
 
+    /// <summary>
+    /// Récupére les informations de la fiche pour les ajouter au liste de "value" et "coeff"
+    /// </summary>
+    /// <param name="sexe">Sexe de l'utilisateur</param>
+    /// <param name="age">Âge de l'utilisateur</param>
+    /// <param name="fp">Forme physique de l'utilisateur</param>
+    /// <param name="corp">Corpulence de l'utilisateur</param>
+    /// <param name="mc">Maladie cardiaque de l'utilisateur</param>
+    /// <param name="gravite_mc">Gravité de la maladie cardiaque si a</param>
+    /// <param name="medoc">Prise de médicament de l'utilisateur</param>
+    /// <param name="gravite_medoc">Dose de médicament pris si a</param>
     public static void initInfo(ToggleGroup sexe, InputField age, Dropdown fp, Dropdown corp, ToggleGroup mc, Dropdown gravite_mc, ToggleGroup medoc, Dropdown gravite_medoc)
     {
         value.Add("Sexe",convert[currentToggle(sexe).name]);
@@ -108,6 +165,10 @@ public class probaAccident : MonoBehaviour
         coeff.Add("bpm", 0.11f);
     }
 
+    /// <summary>
+    /// Calcul le taux d'accident
+    /// </summary>
+    /// <returns>le taux d'accident</returns>
     public static float calculProba()
     {
         value["nbCourse"] = nb_course/15;
