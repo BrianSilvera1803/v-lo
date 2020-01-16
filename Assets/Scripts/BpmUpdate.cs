@@ -6,6 +6,11 @@ using UnityEngine.UI;
 public class BpmUpdate : MonoBehaviour
 {
 	/// <summary>
+	/// Affiche le bpm
+	/// </summary>
+	public Text displayBpm;
+
+	/// <summary>
 	/// Lecteur permetant de lire les pulsion capturer par le Bitalino
 	/// </summary>
 	public BITalinoReader reader;
@@ -68,7 +73,7 @@ public class BpmUpdate : MonoBehaviour
 			}
 			else
 			{
-				Debug.Log(6* bpm);
+				displayBpm.text = (6* bpm).ToString()  + " bpm";
 				probaAccident.bpm.Add(6* bpm);
 				bpm = 0;
 				timer = 0.0f;

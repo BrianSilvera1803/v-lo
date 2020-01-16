@@ -62,6 +62,12 @@ public class mouvementMoto : MonoBehaviour
 
         float h = horizontalSpeed * Input.GetAxis("Mouse X");
 
+        if (Input.GetKey(KeyCode.LeftArrow))
+            h = -horizontalSpeed;
+
+        if (Input.GetKey(KeyCode.RightArrow))
+            h = horizontalSpeed;
+
         transform.Rotate(0, h, 0);
     }
 }

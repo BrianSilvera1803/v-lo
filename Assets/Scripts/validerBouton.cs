@@ -6,8 +6,14 @@ using UnityEngine.UI;
 public class validerBouton : MonoBehaviour
 {
 
+    /// <summary>
+    /// Lecteur de rythme cardique
+    /// </summary>
 	public GameObject BITalino;
 
+    /// <summary>
+    /// Entré du nom de port bluetooth pour le lecteur de rythme cardiaque
+    /// </summary>
 	public InputField COM;
 
     /// <summary>

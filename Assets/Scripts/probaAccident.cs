@@ -152,13 +152,13 @@ public class probaAccident : MonoBehaviour
         }
 
         value.Add("nbCourse", nb_course/15);
-        coeff.Add("nbCourse",0.15f);
+        coeff.Add("nbCourse",0.18f);
 
         value.Add("dist",distance/40000);
-        coeff.Add("dist",0.14f);
+        coeff.Add("dist",0.17f);
 
-        value.Add("nbRegard", nb_regard/20);
-        coeff.Add("nbRegard", 0.06f);
+        //value.Add("nbRegard", nb_regard/20);
+        //coeff.Add("nbRegard", 0.06f);
 
         bpmMAX = 220 - int.Parse(age.text);
         value.Add("bpm", 60);
@@ -173,7 +173,7 @@ public class probaAccident : MonoBehaviour
     {
         value["nbCourse"] = nb_course/15;
         value["dist"] = distance/40000;
-        value["nbRegard"] = nb_regard/20;
+        //value["nbRegard"] = nb_regard/20;
         value["bpm"] = mean(bpm) / bpmMAX;
         bpm.Clear();
 

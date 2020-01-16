@@ -252,7 +252,7 @@ public class Dijkstra : MonoBehaviour
             probaAccident.nb_course = probaAccident.nb_course + 1.0f;
 
             if(probaAccident.start != null)
-                probaAccident.distance = probaAccident.distance + (distance[probaAccident.start]*10); //Mise à l'échelle
+                probaAccident.distance = probaAccident.distance + (distance[probaAccident.start]*20); //Mise à l'échelle
 
             foreach (GameObject child in noeud_list)
             {
@@ -269,25 +269,25 @@ public class Dijkstra : MonoBehaviour
 
             float prob = probaAccident.calculProba();
 
-            display.text = prob.ToString(); 
+            display.text = (prob*100).ToString()+"%"; 
 
             List<GameObject> next = new List<GameObject>();
 
             if (prob <= 0.4f)
             {
-                next = nextGoal(110.0f);
+                next = nextGoal(130.0f);
             }
             else if(prob >= 0.4f && prob <= 0.6f)
             {
-                next = nextGoal(60.0f);
+                next = nextGoal(90.0f);
             }
             else if (prob >= 0.6f && prob <= 0.8f)
             {
-                next = nextGoal(40.0f);
+                next = nextGoal(60.0f);
             }
             else
             {
-                next = nextGoal(20.0f);
+                next = nextGoal(30.0f);
             }
 
             int ind = Random.Range(0, next.Count);
