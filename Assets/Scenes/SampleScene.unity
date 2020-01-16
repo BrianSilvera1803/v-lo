@@ -26619,10 +26619,10 @@ RectTransform:
   m_Father: {fileID: 1757794575}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -459.8, y: 234.975}
-  m_SizeDelta: {x: -919.6, y: -470.05}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 117.70001, y: -84.380005}
+  m_SizeDelta: {x: 235.40997, y: 168.76001}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1892936441
 MonoBehaviour:
@@ -26656,9 +26656,9 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Z : d\xE9placement vers l'avant\nS : d\xE9placement vers l'arri\xE9re\nQ
-    : d\xE9placement vers la gauche\nD : d\xE9placement vers la droite\nShift : Acc\xE9l\xE9ration\n\nL'objectif
-    est d'entr\xE9e en contacte avec les sph\xE8res rouges en suivant le gps dans
-    le t\xE9l\xE9phone."
+    : d\xE9placement vers la gauche\nD : d\xE9placement vers la droite\nShift : Acc\xE9l\xE9ration\nSouris/fl\xE8che
+    : rotation horizontal\n\nL'objectif est d'entr\xE9e en contacte avec les sph\xE8res
+    rouges en suivant le gps dans le t\xE9l\xE9phone."
 --- !u!222 &1892936442
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -7,7 +7,7 @@ public class validerBouton : MonoBehaviour
 {
 
     /// <summary>
-    /// Lecteur de rythme cardique
+    /// Lecteur de rythme cardiaque
     /// </summary>
 	public GameObject BITalino;
 
@@ -27,7 +27,7 @@ public class validerBouton : MonoBehaviour
     public InputField age;
 
     /// <summary>
-    /// Choix de la orme physique de l'utilisateur
+    /// Choix de la forme physique de l'utilisateur
     /// </summary>
     public Dropdown fp;
 
@@ -57,12 +57,12 @@ public class validerBouton : MonoBehaviour
     public Dropdown gravite_medoc;
 
     /// <summary>
-    /// Choix de nombre de course déja effectuer
+    /// Choix de nombre de course déjà effectuer
     /// </summary>
     public Dropdown nb_course_init;
-    
+
     /// <summary>
-    /// Choix de la distance déja parcouru
+    /// Choix de la distance déjà parcouru
     /// </summary>
     public Dropdown distance_init;
 

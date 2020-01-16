@@ -6,12 +6,12 @@ using UnityEngine.UI;
 public class BpmUpdate : MonoBehaviour
 {
 	/// <summary>
-	/// Affiche le bpm
+	/// Affichage du bpm
 	/// </summary>
 	public Text displayBpm;
 
 	/// <summary>
-	/// Lecteur permetant de lire les pulsion capturer par le Bitalino
+	/// Lecteur permettant de lire les pulsion capturer par le Bitalino
 	/// </summary>
 	public BITalinoReader reader;
 
@@ -39,15 +39,16 @@ public class BpmUpdate : MonoBehaviour
 	/// Indique si nous somme sur un pic ou non lors de la lecture de pulsion
 	/// </summary>
 	public bool pic = true;
-	
+
 	/// <summary>
-    /// Valeur qui indique losrqu'on a un pic lors de la lecture de pulsion
-    /// </summary>
+	/// Valeur qui indique lorsqu'on a un pic lors de la lecture de pulsion
+	/// </summary>
 	public float seuil = 6.0f;
 
 	/// <summary>
-	/// Compte le nombre de pic obtenu lors de la lecture du rythme cardiage via BITalino en 10 secondes et fait un produit en croix pour obtenir le battement par minute (bpm)
-	/// Ajoute a la liste des bmp pour le calcul du taux d'accident
+	/// Permet de lire les signaux cardiaque et compte le nombre de battements cardiaque via l’appareil Bitalino 
+	/// sur un échantillon de 10 secondes et fait un produit en croix pour obtenir le battement par minute(bpm) 
+	/// qui est ajouté à la liste des bmp pour faire une moyenne et effectué le calcul du taux d'accident.
 	/// </summary>
 	void Update()
     {

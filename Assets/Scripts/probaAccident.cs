@@ -80,7 +80,7 @@ public class probaAccident : MonoBehaviour
     }
 
     /// <summary>
-    /// Récupére le toggle choisi dans un ToggleGroup
+    /// Récupère le toggle choisi dans un ToggleGroup
     /// </summary>
     /// <param name="tg">un ToggleGroup</param>
     /// <returns>le toggle choisi</returns>
@@ -108,7 +108,7 @@ public class probaAccident : MonoBehaviour
     }
 
     /// <summary>
-    /// Récupére les informations de la fiche pour les ajouter au liste de "value" et "coeff"
+    /// Récupère les informations de la fiche pour les ajouter au liste de "value" et "coeff"
     /// </summary>
     /// <param name="sexe">Sexe de l'utilisateur</param>
     /// <param name="age">Âge de l'utilisateur</param>

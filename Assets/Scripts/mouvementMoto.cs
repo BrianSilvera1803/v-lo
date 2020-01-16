@@ -20,11 +20,12 @@ public class mouvementMoto : MonoBehaviour
     public float horizontalSpeed = 2.0f;
 
     /// <summary>
-    /// Permet de déplacer le vehicule avec les touches:
-    /// Z : avant
-    /// S : arriére
+    /// Permet de déplacer le véhicule avec les touches:
+    /// Z : déplacement vers l’avant
+    /// S : arrière
     /// Q : gauche
-    /// D : droite
+    /// D : droite*$
+    /// Souris/flèche directionnel : rotation horizontal
     /// Shift : accélération
     /// Et on peut appuyer sur échap pour quitter la simulation
     /// </summary>
