@@ -68,6 +68,7 @@ public class BpmUpdate : MonoBehaviour
 			}
 			else
 			{
+				Debug.Log(6* bpm);
 				probaAccident.bpm.Add(6* bpm);
 				bpm = 0;
 				timer = 0.0f;

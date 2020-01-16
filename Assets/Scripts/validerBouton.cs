@@ -5,6 +5,11 @@ using UnityEngine.UI;
 
 public class validerBouton : MonoBehaviour
 {
+
+	public GameObject BITalino;
+
+	public InputField COM;
+
     /// <summary>
     /// Choix du sexe de l'utilisateur
     /// </summary>
@@ -91,7 +96,7 @@ public class validerBouton : MonoBehaviour
     /// </summary>
     public void OnClick()
     {
-        if (age.text != "") {
+        if (age.text != "" && COM.text != "") {
             probaAccident.nb_course = float.Parse(nb_course_init.options[nb_course_init.value].text);
             switch (distance_init.value)
             {
@@ -115,17 +120,20 @@ public class validerBouton : MonoBehaviour
             
             
             probaAccident.initInfo(sexe, age, fp, corp, mc, gravite_mc, medoc, gravite_medoc);
+			BITalino.GetComponent<BITalinoSerialPort>().portName = COM.text;
             fiche.SetActive(false);
             background.SetActive(false);
+			BITalino.SetActive(true);
             clock.SetActive(true);
             bpm.SetActive(true);
             player.AddComponent<mouvementMoto>();
+			display.text = "";
             Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = false;
         }
         else
         {
-            display.text = "Veuillez rentrer au moins un âge";
+            display.text = "Veuillez rentrer au moins un âge et un nom de port";
         }
     }
 }
