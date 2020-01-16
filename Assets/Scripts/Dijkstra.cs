@@ -240,9 +240,9 @@ public class Dijkstra : MonoBehaviour
     }
 
     /// <summary>
-    /// Lorsque le joueur entree dans le gameObject, on met à jour le nombre de course et la distance parcouru
+    /// Lorsque le joueur entree dans le gameObject, on met à jour le nombre de course et la distance parcouru dans probaAccident.
     /// On calcul le nouveau taux d'accident et on choisit la prochaine mission par rapport à ce taux
-    /// On cherche le plus court chemin entre le gameObject et la prochaine destination, et on l'affiche sur le gps.
+    /// On cherche le plus court chemin entre le gameObject et la prochaine destination, et on l'affiche sur le gps pour être un point d'intêret dans l'occulométrie.
     /// </summary>
     /// <param name="other">gameObject qui est entrée</param>
     void OnTriggerEnter(Collider other)

@@ -97,7 +97,7 @@ public class validerBouton : MonoBehaviour
     public GameObject player;
 
     /// <summary>
-    /// Quand on clique sur le bouton "valider" de la fiche, on entre toute les valeurs sur la fiche dans probaAccident
+    /// Quand on clique sur le bouton "valider" de la fiche, on entre toute les valeurs sur la fiche dans probaAccident pour calculer le taux d'accident.
     /// On désactive la fiche, l'image de fond et on active l'heure, la mise a jour du bpm et le joueur
     /// </summary>
     public void OnClick()

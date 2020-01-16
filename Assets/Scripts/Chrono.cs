@@ -16,7 +16,7 @@ public class Chrono : MonoBehaviour
     public float chronoTime;
 
     /// <summary>
-    /// Affiche le temps depuis le lancement de la simulation
+    /// Affiche le temps depuis le lancement de la simulation pour être un point d'intêret pour l'occulométrie.
     /// </summary>
     void Update()
     {

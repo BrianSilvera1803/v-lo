@@ -46,9 +46,9 @@ public class BpmUpdate : MonoBehaviour
 	public float seuil = 6.0f;
 
 	/// <summary>
-    /// Compte le nombre de pic obtenu en 10 secondes et fait un produit en croix pour obtenir de le battement par minute (bpm)
-    /// Ajoute a la liste des bmp pour le calcul du taux d'accident
-    /// </summary>
+	/// Compte le nombre de pic obtenu lors de la lecture du rythme cardiage via BITalino en 10 secondes et fait un produit en croix pour obtenir le battement par minute (bpm)
+	/// Ajoute a la liste des bmp pour le calcul du taux d'accident
+	/// </summary>
 	void Update()
     {
 		if(reader.asStart){
