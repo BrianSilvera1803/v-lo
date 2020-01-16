@@ -224,7 +224,7 @@ public class Dijkstra : MonoBehaviour
     }
 
     /// <summary>
-    /// Retroune le prochain noeud d'arrivé par rapport au taux d'accident
+    /// Retourne le prochain noeud d'arriver par rapport au taux d'accident
     /// </summary>
     /// <param name="distanceMax">distance maximal entre le point de départ et d'arrivé</param>
     /// <returns></returns>
@@ -240,9 +240,9 @@ public class Dijkstra : MonoBehaviour
     }
 
     /// <summary>
-    /// Lorsque le joueur entree dans le gameObject, on met à jour le nombre de course et la distance parcouru dans probaAccident.
-    /// On calcul le nouveau taux d'accident et on choisit la prochaine mission par rapport à ce taux
-    /// On cherche le plus court chemin entre le gameObject et la prochaine destination, et on l'affiche sur le gps pour être un point d'intêret dans l'occulométrie.
+    /// Lorsque le joueur entre dans la sphère, on met à jour le nombre de course et la distance parcouru dans probaAccident.
+    /// On calcul le nouveau taux d'accident et on choisit la prochaine mission par rapport à ce taux.
+    /// On affiche le plus court chemin vers cette prochaine destination sur le gps qui est un point d'intérêt dans l'oculométrie.
     /// </summary>
     /// <param name="other">gameObject qui est entrée</param>
     void OnTriggerEnter(Collider other)
