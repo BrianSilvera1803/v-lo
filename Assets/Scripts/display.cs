@@ -11,11 +11,6 @@ public class display : MonoBehaviour
     public Text display_message;
 
     /// <summary>
-    /// Affichage du bpm
-    /// </summary>
-    public Text displayBpm;
-
-    /// <summary>
     /// Temps affiché pendant la simulation
     /// </summary>
     public GameObject clock;
@@ -77,9 +72,8 @@ public class display : MonoBehaviour
         display_nb_course.text = probaAccident.nb_course.ToString() + "\n nb livraison";
         display_distance_total.text = probaAccident.distance.ToString() + "m";
         display_message.text = (probaAccident.calculProba() * 100).ToString() + "%";
-        if(probaAccident.bpm.Count > 0)
-            displayBpm.text = (6 * probaAccident.bpm[probaAccident.bpm.Count - 1]).ToString() + " bpm";
     }
+            
 
     public void MessageDePrevention(float proba)
     {

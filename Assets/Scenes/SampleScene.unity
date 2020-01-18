@@ -24522,6 +24522,7 @@ MonoBehaviour:
   timer: 0
   pic: 1
   seuil: 12
+  displayBpm: {fileID: 546608695}
 --- !u!4 &1693348647
 Transform:
   m_ObjectHideFlags: 0
@@ -27233,7 +27234,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   display_message: {fileID: 1490541331}
-  displayBpm: {fileID: 546608695}
   clock: {fileID: 1178043464}
   gps: {fileID: 1050310580}
   display_nb_course: {fileID: 443701602}

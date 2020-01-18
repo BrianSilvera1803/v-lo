@@ -39,6 +39,10 @@ public class BpmUpdate : MonoBehaviour
 	/// Valeur qui indique lorsqu'on a un pic lors de la lecture de pulsion
 	/// </summary>
 	public float seuil = 6.0f;
+	/// <summary>
+	/// Affichage du bpm
+	/// </summary>
+	public Text displayBpm;
 
 	/// <summary>
 	/// Permet de lire les signaux cardiaque et compte le nombre de battements cardiaque via l’appareil Bitalino 
@@ -68,8 +72,9 @@ public class BpmUpdate : MonoBehaviour
 				}
 			}
 			else
-			{ 
-				probaAccident.bpm.Add(6* bpm);
+			{
+				displayBpm.text = (6 * bpm).ToString() + " bpm";
+				probaAccident.bpm.Add(6 * bpm);
 				bpm = 0;
 				timer = 0.0f;
 				pic = true;
