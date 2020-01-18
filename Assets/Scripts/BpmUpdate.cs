@@ -5,6 +5,12 @@ using UnityEngine.UI;
 
 public class BpmUpdate : MonoBehaviour
 {
+
+	/// <summary>
+	/// Affichage du bpm
+	/// </summary>
+	public Text displayBpm;
+
 	/// <summary>
 	/// Lecteur permettant de lire les pulsion capturer par le Bitalino
 	/// </summary>
@@ -39,10 +45,7 @@ public class BpmUpdate : MonoBehaviour
 	/// Valeur qui indique lorsqu'on a un pic lors de la lecture de pulsion
 	/// </summary>
 	public float seuil = 6.0f;
-	/// <summary>
-	/// Affichage du bpm
-	/// </summary>
-	public Text displayBpm;
+
 
 	/// <summary>
 	/// Permet de lire les signaux cardiaque et compte le nombre de battements cardiaque via l’appareil Bitalino 

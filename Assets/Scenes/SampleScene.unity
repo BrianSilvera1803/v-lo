@@ -24515,6 +24515,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 865051eeff1d48e44bdac61711ba6201, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  displayBpm: {fileID: 546608695}
   reader: {fileID: 1215349271}
   channelRead: 1
   bpm: 0
@@ -24522,7 +24523,6 @@ MonoBehaviour:
   timer: 0
   pic: 1
   seuil: 12
-  displayBpm: {fileID: 546608695}
 --- !u!4 &1693348647
 Transform:
   m_ObjectHideFlags: 0
@@ -27233,7 +27233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff26c9bdbb1ec0e4ebd0d77b537932d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  display_message: {fileID: 1490541331}
+  display_taux_accident: {fileID: 1490541331}
   clock: {fileID: 1178043464}
   gps: {fileID: 1050310580}
   display_nb_course: {fileID: 443701602}

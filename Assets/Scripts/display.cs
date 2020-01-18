@@ -6,9 +6,9 @@ using UnityEngine.UI;
 public class display : MonoBehaviour
 {
     /// <summary>
-    /// Affichage de message
+    /// Affichage du taux d'accident
     /// </summary>
-    public Text display_message;
+    public Text display_taux_accident;
 
     /// <summary>
     /// Temps affiché pendant la simulation
@@ -21,7 +21,7 @@ public class display : MonoBehaviour
     public GameObject gps;
 
     /// <summary>
-    /// Affichage du nombre de cousrse
+    /// Affichage du nombre de course
     /// </summary>
     public Text display_nb_course;
 
@@ -31,7 +31,7 @@ public class display : MonoBehaviour
     public Text display_distance_total;
 
     /// <summary>
-    /// Affichage d'un message de prévention lorsque l'on atteint un taux trop élevé
+    /// Affichage de la page de prévention
     /// </summary>
     public GameObject message_panel;
 
@@ -46,7 +46,7 @@ public class display : MonoBehaviour
     public GameObject pause;
 
     /// <summary>
-    /// Bouton pour choisir de quitter la simulaiton
+    /// Bouton pour choisir de quitter la simulation
     /// </summary>
     public GameObject quit;
 
@@ -56,7 +56,7 @@ public class display : MonoBehaviour
     public GameObject continu;
 
     /// <summary>
-    /// Bouton pour choisir de continuer la simulation
+    /// Avatar de l'utilisateur
     /// </summary>
     public GameObject player;
 
@@ -67,14 +67,21 @@ public class display : MonoBehaviour
         gps.SetActive(true);
     }
 
+    /// <summary>
+    /// Affiche le nombre de livraison, la distance total parcouru et la taux d'accident
+    /// </summary>
     void Update()
     {
         display_nb_course.text = probaAccident.nb_course.ToString() + "\n nb livraison";
         display_distance_total.text = probaAccident.distance.ToString() + "m";
-        display_message.text = (probaAccident.calculProba() * 100).ToString() + "%";
+        display_taux_accident.text = (probaAccident.calculProba() * 100).ToString() + "%";
     }
             
 
+    /// <summary>
+    /// Affiche un message de prévention lorsque le taux d'accident atteint un certain seuil et propose des options
+    /// </summary>
+    /// <param name="proba">taux d'accident</param>
     public void MessageDePrevention(float proba)
     {
         if(proba >= 0.5f && proba <= 0.75f)
@@ -109,11 +116,17 @@ public class display : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Quitte la simulation
+    /// </summary>
     public void onClick_Quit()
     {
         Application.Quit();
     }
 
+    /// <summary>
+    /// Continue la simulation
+    /// </summary>
     public void onClick_Continue()
     {
         player.GetComponent<mouvementMoto>().enabled = true;
@@ -125,6 +138,9 @@ public class display : MonoBehaviour
         Cursor.visible = false;
     }
 
+    /// <summary>
+    /// Simule une pause du livreur et remet le nombre de livraison effectuer et la distance total parcouru à 0
+    /// </summary>
     public void onClick_Pause()
     {
         probaAccident.nb_course = 0;
