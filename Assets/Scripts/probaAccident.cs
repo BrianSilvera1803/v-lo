@@ -134,28 +134,28 @@ public class probaAccident : MonoBehaviour
         coeff.Add("Age",0.05f);
 
         value.Add("FP",convert[fp.options[fp.value].text.Split(char.Parse(" "))[0]]);
-        coeff.Add("FP",0.11f);
+        coeff.Add("FP",0.06f);
 
         value.Add("Corp",convert[corp.options[corp.value].text]);
-        coeff.Add("Corp",0.10f);
+        coeff.Add("Corp",0.05f);
 
         if(currentToggle(mc).name.CompareTo("Oui") == 0)
         {
             value.Add("MC",convert[gravite_mc.options[gravite_mc.value].text]);
-            coeff.Add("MC",0.15f);
+            coeff.Add("MC",0.10f);
         }
         
         if(currentToggle(medoc).name.CompareTo("Oui") == 0)
         {
             value.Add("Medoc",convert[gravite_medoc.options[gravite_medoc.value].text]);
-            coeff.Add("Medoc",0.11f);
+            coeff.Add("Medoc",0.6f);
         }
 
         value.Add("nbCourse", nb_course/15);
         coeff.Add("nbCourse",0.18f);
 
         value.Add("dist",distance/40000);
-        coeff.Add("dist",0.17f);
+        coeff.Add("dist",0.37f);
 
         //value.Add("nbRegard", nb_regard/20);
         //coeff.Add("nbRegard", 0.06f);
@@ -171,8 +171,8 @@ public class probaAccident : MonoBehaviour
     /// <returns>le taux d'accident</returns>
     public static float calculProba()
     {
-        value["nbCourse"] = nb_course/15;
-        value["dist"] = distance/40000;
+        value["nbCourse"] = nb_course/10;
+        value["dist"] = distance/20000;
         //value["nbRegard"] = nb_regard/20;
         value["bpm"] = mean(bpm) / bpmMAX;
         bpm.Clear();

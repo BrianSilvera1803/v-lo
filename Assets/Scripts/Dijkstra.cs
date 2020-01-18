@@ -71,9 +71,9 @@ public class Dijkstra : MonoBehaviour
     public GameObject goal;
 
     /// <summary>
-    /// Affichage du taux d'accident
+    /// Objet qui contrôle toute l'affichage
     /// </summary>
-    public Text display;
+    public GameObject displayObject;
 
     /// <summary>
     ///  Initialise les sommets autres que sdeb à infini
@@ -249,10 +249,15 @@ public class Dijkstra : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            probaAccident.nb_course = probaAccident.nb_course + 1.0f;
-
             if(probaAccident.start != null)
+            {
                 probaAccident.distance = probaAccident.distance + (distance[probaAccident.start]*20); //Mise à l'échelle
+                probaAccident.nb_course = probaAccident.nb_course + 1.0f;
+            }
+            else
+            {
+                displayObject.SetActive(true);
+            }    
 
             foreach (GameObject child in noeud_list)
             {
@@ -269,8 +274,8 @@ public class Dijkstra : MonoBehaviour
 
             float prob = probaAccident.calculProba();
 
-            display.text = (prob*100).ToString()+"%"; 
-
+            displayObject.GetComponent<display>().MessageDePrevention(prob);
+            
             List<GameObject> next = new List<GameObject>();
 
             if (prob <= 0.4f)
@@ -311,6 +316,13 @@ public class Dijkstra : MonoBehaviour
                     arc[new Tuple(l[i + 1], l[i])].SetActive(true);
             }
             gameObject.SetActive(false);
+
+            foreach(GameObject go in goal_list)
+            {
+                go.SetActive(false);
+            }
+
+            next[ind].SetActive(true);
         }
     }
 }

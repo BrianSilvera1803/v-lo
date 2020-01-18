@@ -67,11 +67,6 @@ public class validerBouton : MonoBehaviour
     public Dropdown distance_init;
 
     /// <summary>
-    /// Affichage de message
-    /// </summary>
-    public Text display;
-
-    /// <summary>
     /// Fiche de l'utilisateur
     /// </summary>
     public GameObject fiche;
@@ -80,12 +75,7 @@ public class validerBouton : MonoBehaviour
     /// Image de fond 
     /// </summary>
     public GameObject background;
-    
-    /// <summary>
-    /// Temps affiché pendant la simulation
-    /// </summary>
-    public GameObject clock;
-    
+        
     /// <summary>
     /// Mise à jour du bpm
     /// </summary>
@@ -95,6 +85,11 @@ public class validerBouton : MonoBehaviour
     /// Avatar de l'utilisateur
     /// </summary>
     public GameObject player;
+
+    /// <summary>
+    /// Affichage de message
+    /// </summary>
+    public Text dis;
 
     /// <summary>
     /// Quand on clique sur le bouton "valider" de la fiche, on entre toute les valeurs sur la fiche dans probaAccident pour calculer le taux d'accident.
@@ -130,16 +125,15 @@ public class validerBouton : MonoBehaviour
             fiche.SetActive(false);
             background.SetActive(false);
 			BITalino.SetActive(true);
-            clock.SetActive(true);
             bpm.SetActive(true);
             player.AddComponent<mouvementMoto>();
-			display.text = "";
+            dis.text = "";
             Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = false;
         }
         else
         {
-            display.text = "Veuillez rentrer au moins un âge et un nom de port";
+            dis.text = "Veuillez rentrer au moins un âge et un nom de port";
         }
     }
 }
